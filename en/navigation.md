@@ -26,20 +26,21 @@
 
 ---------------------------------------------------------------------------- -->
 
-[Top Menu One]()
+[Updates](pages/updates.md)
 
   * ## Updates
   * [22 September](pages/CT_Update_22Sept2014.md)
   * [Council conference call](BostonCouncilCall22Sept.md)
   * [16 September](pages/CT_Update_16Sept2014.md)
-  - - - -
+  
+[Menu Item 2](pages/item2.md)
+
   * ## SubMenu Heading 2
   * [SubMenu Item 3](pages/subitem3.md)
   - - - -
   * ## SubMenu Heading 3
   * [SubMenu Item 3](pages/subitem3.md)
 
-[Menu Item 2](pages/item2.md)
 
 [Menu Item 3](pages/item3.md)
 
