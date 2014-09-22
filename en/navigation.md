@@ -20,7 +20,7 @@
   -->
 
 [About](pages/about.md)
-[ToDo](pages/ToDo - 19Sept2014-b.md)
+[ToDo](pages/todo/ToDo - 19Sept2014-b.md)
 [Download](pages/download.md)
 
 <!-- A more complex navigation example: ----------------------------------------
