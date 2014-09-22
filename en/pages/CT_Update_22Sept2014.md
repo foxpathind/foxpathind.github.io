@@ -24,7 +24,9 @@ September 22, 2014 - 11:33 AM
 |Scott Rabschnuk|Hill Holiday|Boston programming|scott.rabschnuk@hhcc.com| -?-|  
 |Ginger Ludwig|Arnold|Boston coordination|gludwig@arn.com| -?-|  
 |Josh Janicek|Arnold|Boston coordination|jjanicek@arn.com| -?-|  
-|Catherine Phelan|Arnold|Boston admin|cphelan@arn.com| -?-|
+|Catherine Phelan|Arnold|Boston admin|cphelan@arn.com| -?-|  
+|Ebony Glass|Hill Holiday|Boston admin|Ebony.Glass@hhcc.com| -?-|
+
   
  
 
