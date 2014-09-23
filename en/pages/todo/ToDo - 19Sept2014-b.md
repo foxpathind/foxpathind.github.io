@@ -1,18 +1,42 @@
-# NOW:
+# This Week
+- Jason Snyder
+- Mindshare @called
+- Fernanda @emailed
+- Sheldon
+- Biohacking Panel
+	- Contact Powell
+- Mike Baker panel
+	- no Ray?
+	- Anne Balsamo ? @emailed
+- Nigel
+- Chris Reigl 
+- Memi
+- Kati London @emailed
+- Oonie Chase - https://www.linkedin.com/profile/view?id=282353&authType=name&authToken=EKMe&trk=prof-sb-browse_map-name
+- Circle
+
+#Dates
+|Name	| Session Title	| Date range	|???	|  
+| ------	| ------	| ------	| ------	|  
+|David Shrier	|Keynote	|Thursday	|entry	| 
+|Dean	|Bio hacking Panel	|Thursday	|entry	|   
+
+ 
+# LAST Week:
 
 - Jessie.Hennion@porternovelli.com @done
 - Marci on interviews @done
 - letter to Kip @done
-- Pam Coffee - Sep22
+- Pam Coffee - Oct 3
 - Pam L accept the ATT/manmadeMusic proposal @done
 - Justin email @done
-	- Ray Velz @done
+	- Ray Velz 
 	- Anne from New School
 	- how can we help bringing expereince design projects to attract agencies and gather knowledge for the industry
 		- 4A's experience design committee
 - Make sure all open proposals dealt with
-- get back to Scott R at HH
-- Prep for Monday call
+- get back to Scott R at HH @done
+- Prep for Monday call @done
 - List all who need to be contact
 - First run at schedule
 - TechTalk
@@ -43,7 +67,7 @@ Week of 19 Sep
 - Pam Lipshitz re: ATT and ManMade @done
 - David Srier @done
 - Pam Workman @done
-- Call with Mike B. 9am 9/18
+- Call with Mike B. 9am 9/18 @done
 - Nigel
 - Write to Justin
 	- Ray Velez
@@ -91,19 +115,20 @@ Teach Yourself SQL in One Hour a Day @done
 
 |Proposal|Contact|
 |------|-------|
-|Monotype | Jessie Hennion |
+|Monotype | Jessie Hennion | @tofollowup
 |Manmade music | Workman |
-|Sheldon @Sapient | Alan |
+|Sheldon @Sapient | Alan | @tofollowup
 |John Dain | 
 |Tool, Ogilvy, IBM |
 |FakeLove +1 |heather@doubleecomms| 
 |Critical Mass | Critcal Mass|
 |Barbarian Group| Barbarian |
-|Digitas and Agile development|Andre|
+|Digitas and Agile development|Andre| @done
 |MEMI|Sarah Fay <sarah.fay@gmail.com> Cc: Amanda Neville <amanda.lee.neville@gmail.com>|
 |Rodale guy| ?????|
 |Michael Lebowitz - Big Spaceship | Powell |
 |CTIA ?|||
+|Chris Denson, OMD||
 
 
 - 
