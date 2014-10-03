@@ -1,19 +1,47 @@
-# This Week
-- Jason Snyder
+CreateTech Follow ups:
+	- Chris Reigl
+	- Nigel
+	- Ben Malbon
+	- KipV?
+	- Mike Baker panel
+		- Barbarian Group?
+		- Big spaceship?
+		- Huge!
+	- Biohacking panel
+	- List all speakers - https://docs.google.com/a/aaaa.org/spreadsheet/ccc?key=0AolsLVLuBgcodGVKMEpiRUQ5X0FSY2dkQ1hpTC1vd0E&usp=drive_web#gid=4
+CreateTech Website Edits:
+- Background pic with White panels for news
+
+
+
+Meetings:
+	- Ray Velez
+		- Experience design in advertising - lead a conversation
+		- data and context, experience design
+	- Tom Goodwin
+CreateTech Oct 3:
+- Tickets for Chicago - leave night before? Stay extra day?
+- Jason Snyder @done
 - Mindshare @called
 - Fernanda @emailed
-- Sheldon
+- Sheldon @done
 - Biohacking Panel
-	- Contact Powell
+	- Contact Powell @emailed
+	- Uwe Gutshow Innocean @emailed @JaimeLevitt @PowellComm @done
+	- Camilo ?
+	- Steven Dean
 - Mike Baker panel
 	- no Ray?
 	- Anne Balsamo ? @emailed
-- Nigel
-- Chris Reigl 
+- Nigel @emailed
+- Chris Reigl @troy @emailed
 - Memi
-- Kati London @emailed
+- Kati London @emailed @done
 - Oonie Chase - https://www.linkedin.com/profile/view?id=282353&authType=name&authToken=EKMe&trk=prof-sb-browse_map-name
-- Circle
+- Circle ?? @>Trevor @done
+- Anne Balsamo @emailed
+- Kip V?
+- Critcal Mass @emailed @done
 
 #Dates
 |Name	| Session Title	| Date range	|???	|  
@@ -22,7 +50,7 @@
 |Dean	|Bio hacking Panel	|Thursday	|entry	|   
 
  
-# LAST Week:
+# Sept:
 
 - Jessie.Hennion@porternovelli.com @done
 - Marci on interviews @done
@@ -31,24 +59,13 @@
 - Pam L accept the ATT/manmadeMusic proposal @done
 - Justin email @done
 	- Ray Velz 
-	- Anne from New School
+	- Anne from New School @done
 	- how can we help bringing expereince design projects to attract agencies and gather knowledge for the industry
 		- 4A's experience design committee
-- Make sure all open proposals dealt with
-- get back to Scott R at HH @done
-- Prep for Monday call @done
-- List all who need to be contact
-- First run at schedule
-- TechTalk
-- Biohacking panel
-- Get panels together
-- Sheldon ?
-- Fernanda ?
-- Need someone for data conversation
-- When is Mike Baker NOT free?
-- Journalism program get back to 
 
-## General/On going:
+- Journalism program get back to ???
+
+# General/On going:
 - Wiki database of all sources for digital technology and advertising
 	- Need namespace heirachy for all projects and information domains
 	- Extensible
@@ -80,7 +97,7 @@ Week of 19 Sep
 ## Connect:
 - Brett Harned - HappyCog
 - Nikki @ Tealium @CreateTech
--  Chris Meija
+- Chris Meija
 
 # Technology and Development:
 ## Book For Georgia
@@ -108,7 +125,7 @@ Teach Yourself SQL in One Hour a Day @done
 - Query @done
 - Get MB’s outline @done
 - Scott Rabe... and the Future 4 awards @done
-- Add innovation lab survey BACK onto website
+- Add innovation lab survey BACK onto website @ctwebsite
 - Schedule Table
 - List all open proposals @done
 
@@ -241,3 +258,4 @@ Fax: 313-664-7881
 [viddler]: http://www.viddler.com/videos/7632e10a/manage#ts-manage
 [youtube]: https://www.youtube.com/watch?v=_ODFl4GUy8I
 
+- 
