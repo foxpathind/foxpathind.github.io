@@ -1,12 +1,15 @@
-# Page Title CF ;-)
+# Welcome to FoxpathIND Wiki;-)
 
 
-## Section 1
+## Chick Foxgrover's workspace
 
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras mattis consectetur purus sit amet fermentum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Sed posuere consectetur est at lobortis.
+- Update the page list: 
+```
+/Dropbox/mindmaps/Notes/fxpthwiki/foxpathind.github.io/en$ls -R >PagesList.txt
+```
 
 
-## Section 2
+## Add the page listing here
 
 Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec ullamcorper nulla non metus auctor fringilla. Cras mattis consectetur purus sit amet fermentum. Donec ullamcorper nulla non metus auctor fringilla. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
 
