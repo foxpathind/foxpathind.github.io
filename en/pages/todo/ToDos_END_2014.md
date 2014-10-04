@@ -1,3 +1,4 @@
+#TODO - END 2014
 #CreateTech Follow ups:
 	- Chris Reigl
 	- Nigel
@@ -10,7 +11,7 @@
 	- Biohacking panel
 	- List all speakers - https://docs.google.com/a/aaaa.org/spreadsheet/ccc?key=0AolsLVLuBgcodGVKMEpiRUQ5X0FSY2dkQ1hpTC1vd0E&usp=drive_web#gid=4
 	- Rudina - Oct 17th call 
-#CreateTech Website Edits:
+##CreateTech Website Edits:
 - Background pic with White panels for news
 - Add times and dates @done 
 
