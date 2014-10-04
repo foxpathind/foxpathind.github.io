@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Bytes</key>
+	<integer>6411108</integer>
+	<key>Done</key>
+	<integer>78</integer>
+	<key>Results</key>
+	<integer>4</integer>
+	<key>ResultsReverseSorting</key>
+	<true/>
+	<key>ResultsSorting</key>
+	<integer>4</integer>
+	<key>Set</key>
+	<string>Web (Fast)</string>
+	<key>Settings</key>
+	<dict>
+		<key>AddResultsToDEVONthink</key>
+		<false/>
+		<key>ArchiveResults</key>
+		<false/>
+		<key>BounceDock</key>
+		<true/>
+		<key>BringToFront</key>
+		<false/>
+		<key>CloseSearch</key>
+		<false/>
+		<key>Day</key>
+		<integer>0</integer>
+		<key>DefaultFollowLinksTerm</key>
+		<string></string>
+		<key>ExecuteScript</key>
+		<false/>
+		<key>Hour</key>
+		<integer>0</integer>
+		<key>IgnoreCache</key>
+		<true/>
+		<key>Minute</key>
+		<integer>0</integer>
+		<key>NotifyViaGrowl</key>
+		<true/>
+		<key>PlaySound</key>
+		<false/>
+		<key>QuitWhenDone</key>
+		<false/>
+		<key>Receiver</key>
+		<string></string>
+		<key>Results</key>
+		<integer>0</integer>
+		<key>Schedule</key>
+		<integer>0</integer>
+		<key>Script</key>
+		<string></string>
+		<key>SecondaryQuery</key>
+		<string></string>
+		<key>SendMail</key>
+		<false/>
+		<key>Sound</key>
+		<string>Submarine</string>
+		<key>SpeakText</key>
+		<false/>
+		<key>download</key>
+		<integer>7</integer>
+		<key>engines</key>
+		<array>
+			<string>com.devon-technologies.internet.plugin</string>
+		</array>
+		<key>filterArchivedPages</key>
+		<true/>
+		<key>filterDuplicates</key>
+		<true/>
+		<key>followLevels</key>
+		<integer>1</integer>
+		<key>followMode</key>
+		<integer>0</integer>
+		<key>fuzzy</key>
+		<false/>
+		<key>ignoreUmlauts</key>
+		<true/>
+		<key>match</key>
+		<integer>19</integer>
+		<key>numberOfResults</key>
+		<integer>100</integer>
+		<key>scanner</key>
+		<string></string>
+		<key>skipCrawling</key>
+		<false/>
+	</dict>
+	<key>Term</key>
+	<string>energy use, energy markets and the internet of things</string>
+	<key>WindowFrame</key>
+	<string>{{156, 4}, {942, 874}}</string>
+	<key>WindowIndex</key>
+	<integer>0</integer>
+	<key>WindowTitle</key>
+	<string>Web (Fast): energy use, energy markets the internet of...</string>
+</dict>
+</plist>

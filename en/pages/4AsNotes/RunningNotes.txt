@@ -1,0 +1,10 @@
+# Capture activity
+- Where is the time spent
+-  what is the value of the activity
+- next steps - who to hand off to
+
+
+Carl Witton <CarlWitton@deltek.com>
+Troy Starwalt <tstarwalt@aaaa.org>,
+ Callum Broderick <CallumBroderick@deltek.com>,
+ Brenda Major <bmajor@aaaa.org>

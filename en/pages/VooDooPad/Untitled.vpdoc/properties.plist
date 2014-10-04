@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allowPluginLinks</key>
+	<true/>
+	<key>bdToBookmarkAliasUpgrade</key>
+	<true/>
+	<key>createSpotlightIndex</key>
+	<true/>
+	<key>dbVersion</key>
+	<string>7</string>
+	<key>expectedPageCount</key>
+	<integer>3</integer>
+	<key>lastWebExportOutputURLData</key>
+	<data>
+	Ym9vazwDAAAAAAQQMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALAIA
+	AAUAAAABAQAAVXNlcnMAAAAIAAAAAQEAAGNmNEFzQWlyBwAAAAEBAABEZXNrdG9wAAwA
+	AAABBgAABAAAABQAAAAkAAAACAAAAAQDAAD5DQIAAAAAAAgAAAAEAwAAN8MFAAAAAAAI
+	AAAABAMAAMUuBgAAAAAADAAAAAEGAABIAAAAWAAAAGgAAAAIAAAAAAQAAEG2QgxvAAAA
+	GAAAAAECAAACAAAAAAAAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAQUAAAQAAAADAwAAAQAA
+	AAgAAAAEAwAAAQAAAAAAAAAEAAAAAwMAAPUBAAANAAAAAQEAAENGLU1hY0Jvb2tBaXIA
+	AAAIAAAABAMAAABwokd0AAAACAAAAAAEAABBtbuZ8gAAACQAAAABAQAAOUEyNDhBMEIt
+	QzVEMC0zNDRELTg1OEQtRUY3RUJDNjIxNUZGGAAAAAECAACBAAAAAQAIAO8XAAABAAgA
+	AAAAAAAAAAABAAAAAQEAAC8AAACoAAAAAQIAADcwMjcwOTA3OWU0NDkxNjJjNWZlMGZl
+	Yjk3YzYzMWI0MzI0ZmE2NjE7MDAwMDAwMDA7MDAwMDAwMDA7MDAwMDAwMDAwMDAwMDAy
+	MDtjb20uYXBwbGUuYXBwLXNhbmRib3gucmVhZC13cml0ZTswMDAwMDAwMTswMTAwMDAw
+	MjswMDAwMDAwMDAwMDYyZWM1Oy91c2Vycy9jZjRhc2Fpci9kZXNrdG9wANgAAAD+////
+	AQAAAAAAAAARAAAABBAAADQAAAAAAAAABRAAAHgAAAAAAAAAEBAAAJwAAAAAAAAAQBAA
+	AIwAAAAAAAAAVBAAAMQAAAAAAAAAVhAAALwAAAAAAAAAAiAAAHABAAAAAAAAECAAAOwA
+	AAAAAAAAESAAACQBAAAAAAAAEiAAAAQBAAAAAAAAEyAAABQBAAAAAAAAICAAAFABAAAA
+	AAAAMCAAALwAAAAAAAAAAcAAANAAAAAAAAAAEcAAABQAAAAAAAAAEsAAAOAAAAAAAAAA
+	gPAAAHwBAAAAAAAA
+	</data>
+	<key>localWebAccess</key>
+	<false/>
+	<key>openWindows</key>
+	<array>
+		<dict>
+			<key>displayUUID</key>
+			<string>be7257be-ec52-46c1-a373-0274ce3cf1bb</string>
+			<key>drawerOpen</key>
+			<false/>
+			<key>openUUIDProperties</key>
+			<array>
+				<dict>
+					<key>itemUUID</key>
+					<string>be7257be-ec52-46c1-a373-0274ce3cf1bb</string>
+					<key>rulerVisible</key>
+					<false/>
+					<key>selectedRange</key>
+					<string>{195, 10}</string>
+					<key>visibleGlyphs</key>
+					<string>{0, 928}</string>
+					<key>zoomScale</key>
+					<real>1</real>
+				</dict>
+			</array>
+			<key>windowFrame</key>
+			<string>{{1482, 306}, {804, 779}}</string>
+		</dict>
+	</array>
+	<key>skIndexVersion</key>
+	<integer>7</integer>
+	<key>updatedFMPageToRealUTIs</key>
+	<true/>
+	<key>updatedSpecialPages3</key>
+	<true/>
+	<key>uuid</key>
+	<string>d9f22148-800f-4377-a5f6-fa049930dcda</string>
+</dict>
+</plist>

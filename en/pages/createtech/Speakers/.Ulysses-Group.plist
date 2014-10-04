@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>BenMalbon.md</string>
+		</array>
+		<array>
+			<string>Follow ups CreateTech.md</string>
+		</array>
+		<array>
+			<string>KatieLondon.md</string>
+		</array>
+		<array>
+			<string>MikeDigiovanni.md</string>
+		</array>
+		<array>
+			<string>RudinaSeseri.md</string>
+		</array>
+		<array>
+			<string>CreateTech Checkin Email.md</string>
+		</array>
+		<array>
+			<string>JasonLevy.md</string>
+		</array>
+	</array>
+</dict>
+</plist>

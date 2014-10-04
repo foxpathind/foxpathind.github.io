@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>AlanSchulman.md</string>
+		</array>
+		<array>
+			<string>AndrewMason.md</string>
+		</array>
+		<array>
+			<string>hush_call.md</string>
+		</array>
+		<array>
+			<string>Keith Johnston.md</string>
+		</array>
+		<array>
+			<string>MikeBakerConversation.md</string>
+		</array>
+		<array>
+			<string>mindshare.md</string>
+		</array>
+		<array>
+			<string>Untitled.md</string>
+		</array>
+		<array>
+			<string>JohnCain.md</string>
+		</array>
+		<array>
+			<string>ByronEllis-CTO- Spongecell.md</string>
+		</array>
+	</array>
+</dict>
+</plist>

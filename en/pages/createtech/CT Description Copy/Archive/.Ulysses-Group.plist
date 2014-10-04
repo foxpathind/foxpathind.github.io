@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>CreateTechDescription20Aug2014.md</string>
+		</array>
+		<array>
+			<string>creativity_and_the_internet_of_everything-_new_abilities,_new_interfaces,_new_design,_new_behaviors,_new_data..md</string>
+		</array>
+		<array>
+			<string>CreatTechDescription02Sept2014wSpeakers.txt</string>
+		</array>
+	</array>
+</dict>
+</plist>

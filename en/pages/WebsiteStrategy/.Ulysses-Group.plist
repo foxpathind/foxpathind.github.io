@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>childOrder</key>
+	<array>
+		<string>My Notes</string>
+	</array>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>WebsiteStrategyNote04Sep2014.md</string>
+		</array>
+		<array>
+			<string>Meet with Marci.md</string>
+		</array>
+		<array>
+			<string>WebsiteInterviesIntro.md</string>
+		</array>
+		<array>
+			<string>WebsiteInterviewsIntro2.md</string>
+		</array>
+		<array>
+			<string>WebsiteStrategy11Sept2014.md</string>
+		</array>
+		<array>
+			<string>WebsiteUpdate21Aug2014.md</string>
+		</array>
+		<array>
+			<string>Taxonomy10Sep2014.md</string>
+		</array>
+		<array>
+			<string>web_strategy_and_ongoing_we.md</string>
+		</array>
+		<array>
+			<string>Website Strategy Notes Ongoing.md</string>
+		</array>
+	</array>
+</dict>
+</plist>

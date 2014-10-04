@@ -1,0 +1,6 @@
+## Katie London
+For her work in both real world games and the early Internet of Things, Kati was named one of the “Top 35 Innovators Under 35” by MIT's Technology Review Magazine and “100 Most Creative People in Business” by Fast Company Magazine. She teaches a graduate course “Persuasive Technology: Designing the Human" at NYU's ITP, and frequently speaks on online and offline engagement, economies, games, and sensors. 
+
+Her work has been covered by Businessweek, the New York Times, Wired, National Geographic, and Glamour Magazine, among others. She has worked with clients including the John S. and James L. Knight Foundation, Foursquare, the United Kingdom's Department for Transport, the BBC, the Carnegie Institute, Disney Imagineering, Nike, CBS and MTV. Her work is represented in the permanent collection of MOMA and has been exhibited at the Design Museum of London and Museum of Science & Industry. 
+
+She is currently a Senior Researcher at Microsoft Research, FUSE (Future User Social Experiences). Previously, she was Director of Product for Zynga New York and Vice President of Area/Code (acquired by Zynga). She has served as Innovator-in-Residence at USC's Annenberg School, and in 2014 had the honor of being the commencement speaker at the University of California at Santa Cruz

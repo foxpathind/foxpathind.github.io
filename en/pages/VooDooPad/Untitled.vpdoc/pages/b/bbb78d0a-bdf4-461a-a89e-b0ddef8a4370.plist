@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aliases</key>
+	<array/>
+	<key>attributes</key>
+	<dict/>
+	<key>categories</key>
+	<array/>
+	<key>createdDate</key>
+	<date>2014-08-19T15:10:49Z</date>
+	<key>dataHash</key>
+	<string>fcd758ac44256486e872834c14c4300c0857a26d</string>
+	<key>displayName</key>
+	<string>algorithms</string>
+	<key>encrypted</key>
+	<string>No</string>
+	<key>key</key>
+	<string>algorithms</string>
+	<key>metaValues</key>
+	<dict/>
+	<key>modifiedDate</key>
+	<date>2014-08-19T15:10:49Z</date>
+	<key>shouldHighlightLinks</key>
+	<string>Yes</string>
+	<key>skipOnExport</key>
+	<string>No</string>
+	<key>uti</key>
+	<string>com.apple.rtfd</string>
+	<key>uuid</key>
+	<string>bbb78d0a-bdf4-461a-a89e-b0ddef8a4370</string>
+	<key>version</key>
+	<integer>1</integer>
+</dict>
+</plist>

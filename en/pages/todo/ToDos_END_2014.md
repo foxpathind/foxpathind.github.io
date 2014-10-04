@@ -1,4 +1,4 @@
-CreateTech Follow ups:
+#CreateTech Follow ups:
 	- Chris Reigl
 	- Nigel
 	- Ben Malbon
@@ -10,25 +10,25 @@ CreateTech Follow ups:
 	- Biohacking panel
 	- List all speakers - https://docs.google.com/a/aaaa.org/spreadsheet/ccc?key=0AolsLVLuBgcodGVKMEpiRUQ5X0FSY2dkQ1hpTC1vd0E&usp=drive_web#gid=4
 	- Rudina - Oct 17th call 
-CreateTech Website Edits:
+#CreateTech Website Edits:
 - Background pic with White panels for news
 - Add times and dates @done 
 
-CreateTech Emails:
+#CreateTech Emails:
 	- 3 speakers phots and copy
 	- New York specific
 	- East Coast specific
 		- Hotel info
 
-Eduication/Training:
+# Education/Training:
 	- Mark Avnet lunch invite @done
 	
-Meetings:
+# Meetings:
 	- Ray Velez
 		- Experience design in advertising - lead a conversation
 		- data and context, experience design
 	- Tom Goodwin
-CreateTech Oct 3:
+# CreateTech Oct 3:
 - Tickets for Chicago - leave night before? Stay extra day?
 - Jason Snyder @done
 - Mindshare @called

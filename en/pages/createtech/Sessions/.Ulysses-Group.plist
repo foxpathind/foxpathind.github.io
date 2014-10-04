@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>ATTManMade.md</string>
+		</array>
+		<array>
+			<string>CreateTech 2014 topic development ideas.md</string>
+		</array>
+		<array>
+			<string>DDBMcDonalds.md</string>
+		</array>
+		<array>
+			<string>FakeLove.md</string>
+		</array>
+		<array>
+			<string>SeldonMontiero.md</string>
+		</array>
+		<array>
+			<string>ToolIBMOlgilvy.md</string>
+		</array>
+		<array>
+			<string>Biohacking-Bulletproof.md</string>
+		</array>
+		<array>
+			<string>CTIA.md</string>
+		</array>
+		<array>
+			<string>Emailcopy.md</string>
+		</array>
+		<array>
+			<string>jason_levy.md</string>
+		</array>
+		<array>
+			<string>Memi_FashionTech.md</string>
+		</array>
+		<array>
+			<string>MikeDigiovani.md</string>
+		</array>
+		<array>
+			<string>monotype.md</string>
+		</array>
+		<array>
+			<string>MonotypeCall.md</string>
+		</array>
+		<array>
+			<string>Powell08Sep2014.md</string>
+		</array>
+	</array>
+</dict>
+</plist>

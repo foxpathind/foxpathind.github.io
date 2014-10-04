@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<true/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>predictive shopping.md</string>
+		</array>
+		<array>
+			<string>app mentality.md</string>
+		</array>
+		<array>
+			<string>Outlander.md</string>
+		</array>
+		<array>
+			<string>test file.md</string>
+		</array>
+		<array>
+			<string>commercial to personal.md</string>
+		</array>
+		<array>
+			<string>Untitled.md</string>
+		</array>
+		<array>
+			<string>Energy-IoT-Data-Today.md</string>
+		</array>
+		<array>
+			<string>Common Namespaces project.md</string>
+		</array>
+	</array>
+</dict>
+</plist>

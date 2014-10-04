@@ -1,0 +1,8 @@
+## Rudina Sesari
+Rudina joined Fairhaven Capital at its inception in 2007. She currently serves on the board of directors of CrowdTwist, FashionPlaytes and SocialFlow. In addition to investing, Rudina helps her portfolio companies with strategic direction and growth strategy, building boards and executive teams, strategic partnerships and lead generation. 
+
+Rudina also serves as an Entrepreneur-In-Residence at the Harvard Business School. Previously, she was a Senior Manager in the Corporate Development Group at Microsoft Corporation. In this position, Rudina was responsible for sourcing, structuring, and negotiating Microsoft's acquisitions and strategic investments including acquisitions such as iView Multimedia, Deep Metrix, Massive and Lionhead Studios. Prior to Microsoft, she worked as an investment banker in the Technology Group at Credit Suisse.
+
+Rudina graduated magna cum laude from Wellesley College with a B.A. in Economics and International Relations, and received her MBA from the Harvard Business School. She has been elected to the Phi Beta Kappa and Omicron Delta Epsilon honor societies.
+
+Rudina serves as a Member of the Advisory Board of L’Oreal’s Women in Digital, a Member of the Board of Directors at MITX, a member of the Digital Hollywood Women’s Board and a Mentor for TechStars. She is also a 2011 Boston Business Journal 40-under-40 honoree for her professional accomplishments and community involvement and a 2014 Women to Watch honoree by Mass High Tech.

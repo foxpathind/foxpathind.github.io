@@ -1,0 +1,59 @@
+﻿Digital Skills
+
+
+What to inventory/task and production contexts
+
+
+HTML - basic/advanced
+        CSS
+        XML
+Javascript (presentation programming)
+Emails
+Content management chunk
+Full pages
+Forms
+Template editing
+Graphics, 
+GIMP, Photoshop
+        Common tasks, editing existing
+        resizing, cropping and scaling
+        level, static
+        level, improving
+        level, creative
+design
+CMS
+        Sharepoint, Drupal, Squarespace, Wordpress
+        Level, Beg, Intermediate, Advanced
+Tasks
+Concepts
+Video & Audio
+        Editing
+                Tools
+        Shooting
+        Formats, conversions
+        Publishing online
+PDF creation and publishing
+        Compression
+        Fonts
+        Interactive links
+        Passwords/protection
+Publishing online
+Digital content creation
+Link shortening 
+                in the tracking environment
+        etc.
+Project management concepts and tools
+        Basecamp
+        Redbooth
+        others
+Internet tools
+        FTP
+        File sharing
+        Form builders
+        Data collection
+        Email marketing
+        
+        
+
+
+Who to look at
