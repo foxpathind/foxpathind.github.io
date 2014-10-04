@@ -21,7 +21,7 @@
 
 [About](pages/about.md)
 [PageList](PageList.md)
-[ToDo](pages/todo/ToDo - 19Sept2014-b.md)
+[ToDo](pages/todo/ToDos_END_2014.md)
 [Download](pages/download.md)
 
 <!-- A more complex navigation example: ----------------------------------------
