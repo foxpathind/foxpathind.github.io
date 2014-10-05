@@ -12,8 +12,19 @@
 	- List all speakers - https://docs.google.com/a/aaaa.org/spreadsheet/ccc?key=0AolsLVLuBgcodGVKMEpiRUQ5X0FSY2dkQ1hpTC1vd0E&usp=drive_web#gid=4
 	- Rudina - Oct 17th call 
 ##CreateTech Website Edits:
-- Background pic with White panels for news
-- Add times and dates @done 
+	- Schedule
+	- Background pic with White panels for news
+	- Add times and dates @done 
+	- Home
+		- About - all details
+		- Session descriptions
+			- Advanced topics at CreateTech
+		- Mike D signup page
+		- Speakers
+		- Agenda
+		- Blog
+		- CT video -signup page
+			- OUtline of questions for 1 minute videos
 
 #CreateTech Emails:
 	- 3 speakers phots and copy
@@ -29,6 +40,7 @@
 		- Experience design in advertising - lead a conversation
 		- data and context, experience design
 	- Tom Goodwin
+		- Future of advertising
 # CreateTech Oct 3:
 - Tickets for Chicago - leave night before? Stay extra day?
 - Jason Snyder @done
