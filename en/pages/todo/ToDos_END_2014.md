@@ -1,4 +1,10 @@
 #TODO - END 2014
+#NOW:
+	- Amex
+	- CES tix
+	- Xmas planning
+	- Vacation
+	- 
 #CreateTech Follow ups:
 	- Chris Reigl
 	- Nigel
@@ -35,12 +41,17 @@
 # Education/Training:
 	- Mark Avnet lunch invite @done
 	
-# Meetings:
+# Meetings/Calls:
 	- Ray Velez
 		- Experience design in advertising - lead a conversation
 		- data and context, experience design
 	- Tom Goodwin
 		- Future of advertising
+	- Isabel
+		- Arnold after party?
+		- Brownstein Ricoh billboard 
+			- Artist rep'ping
+		- Dec. 9 change??
 # CreateTech Oct 3:
 - Tickets for Chicago - leave night before? Stay extra day?
 - Jason Snyder @done

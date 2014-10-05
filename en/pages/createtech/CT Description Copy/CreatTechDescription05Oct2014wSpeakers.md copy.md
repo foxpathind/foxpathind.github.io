@@ -35,7 +35,7 @@ And, of course, CreateTech celebrates and highlights the work—inspiring, dazzl
 We are very pleased to be holding CreateTech in Boston the home of MIT MediaLab, the Harvard iLab,  [a vibrant startup community and a city that is pioneering in it’s deployment of the internet of things.](FastCompany article - http://www.fastcompany.com/3033636/internet-of-things/in-boston-the-internet-of-things-is-already-in-front-of-your-face)
 
 
-####Featured Speakers
+####2014 Speakers
 
 - **Nigel Jacob**, @nsjacob, Co-founder of @newurbanmechs | @codeforamerica board | Urban Technologist-in-Residence @Living_Cities | Exec-in-Residence @BUManagement  
 [New Urban Mechanics](http://newurbanmechanics.org/ "New Urban Mechanics")
@@ -60,6 +60,8 @@ We are very pleased to be holding CreateTech in Boston the home of MIT MediaLab,
 - **David Schwarz**, Creative Partner [HUSH](http://heyhush.com/work/)
 - **Joel Beckerman**, Founder and Lead Composer of [Man Made Music](http://www.manmademusic.com/)
 -**Stacey Mulcahy**, Technical Evangelist, Microsoft [BitchWhoCodes](http://bitchwhocodes.com)
+-**Mindshare Life+** & **MapMyFitness** [Life + story at AdAge](http://adage.com/article/agency-news/mindshare-launches-wearable-tech-unit/294040/)
+-**Mark Logan**, SVP, Innovation, Barkeley
 
 
  
