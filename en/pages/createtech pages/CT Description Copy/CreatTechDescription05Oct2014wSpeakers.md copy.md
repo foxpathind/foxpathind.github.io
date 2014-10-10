@@ -41,7 +41,7 @@ We are very pleased to be holding CreateTech in Boston the home of MIT MediaLab,
 [New Urban Mechanics](http://newurbanmechanics.org/ "New Urban Mechanics")
 - **Kati London** Senior Researcher at Microsoft Research, FUSE (Future User Social Experiences) Previously, she was Director of Product for Zynga New York and Vice President at Area/Code (acquired by Zynga). In 2012 she became Innovator-in-Residence at USC’s Annenberg School, where she led workshops in Design Patterns for Autonomous Objects.  
 [katilondon.com](http://www.katilondon.com/)
-- **Dr. Cynthia Brazeal**, Founder and CEO, Jibo
+- **Dr. Cynthia Braezeal**, Founder and CEO, Jibo
 [IEEE Spectrum: Unveling Jibo](http://spectrum.ieee.org/automaton/robotics/home-robots/cynthia-breazeal-unveils-jibo-a-social-robot-for-the-home)
 - **David Shrier**, New Ventures Officer, Managing Director, [Connection Science and Engineering, MIT](http://connection.mit.edu/motivation.html). "Our goal is to forge the foundations of an integrated framework for understanding the connected world we live in. This requires a multidisciplinary, interdepartmental effort that leverages and supports existing disciplinary network projects."
 - **Jason Levy**, SVP, Engagement Strategy & Innovation, Saatchi & Saatchi Wellness - [http://jmlevy.tumblr.com/](http://jmlevy.tumblr.com/)
@@ -59,9 +59,10 @@ We are very pleased to be holding CreateTech in Boston the home of MIT MediaLab,
 - **Abby Fichtner**, Hacker in Residence, Harvard Innovation Lab, Creator of Hack Boston, advisor, SXSW Accelerator [www.hackerchick.com/](http://www.hackerchick.com/)
 - **David Schwarz**, Creative Partner [HUSH](http://heyhush.com/work/)
 - **Joel Beckerman**, Founder and Lead Composer of [Man Made Music](http://www.manmademusic.com/)
--**Stacey Mulcahy**, Technical Evangelist, Microsoft [BitchWhoCodes](http://bitchwhocodes.com)
--**Mindshare Life+** & **MapMyFitness** [Life + story at AdAge](http://adage.com/article/agency-news/mindshare-launches-wearable-tech-unit/294040/)
--**Mark Logan**, SVP, Innovation, Barkeley
+- **Stacey Mulcahy**, Technical Evangelist, Microsoft [IoT with Unity 3d & Arduino & SpaceBrew](http://thebitchwhocodes.com/2014/07/29/internet-of-things-with-unity3d-arduino-and-spacebrew-part-2/)
+- **Mindshare Life+** & **MapMyFitness** [Life + story at AdAge](http://adage.com/article/agency-news/mindshare-launches-wearable-tech-unit/294040/)
+- **Mark Logan**, SVP, Innovation, Barkeley
+- **Sheldon Montiero**, Chief Technology Officer, SapientNitro
 
 
  

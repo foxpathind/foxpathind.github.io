@@ -1,3 +1,31 @@
+### October 9, 2014 , 11:05 AM ###
+
+## Survey ##
+
+- 155 responses
+- talk about edit
+- need to start work soon
+- preview link
+- Tarini is signed up for next weeks 
+
+## Get a New Talk With Alison ##
+
+## Webinar - Oct 14, 1-2pm ##
+
+- Available on demand afterwards - 
+- 
+
+## Content Audit - Susan Cohen ##
+- Andy, Tarini, Susan
+- users/audience
+- functionality by users
+- cycles
+- business goals
+
+
+
+
+
 ###October 2, 2014 - 11:06 AM
 
 ## Survey ##

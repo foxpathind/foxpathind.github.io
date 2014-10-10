@@ -1,13 +1,23 @@
 #TODO - END 2014
 #NOW:
-	- Amex
-	- CES tix
+	- Amex @done
+	- CES tix - October 15
 	- Xmas planning
 	- Vacation
-	- 
+	- Tweet about Mike D session, tweet about Sheldon M
+	- Chicago !!
+	- Update website
+	- juicemobile sponsorship @done @emailed
+	- Frank Rose!!
+	- Time inc preparation
+	- Discounts ??
+	- Query!
+
 #CreateTech Follow ups:
-	- Chris Reigl
-	- Nigel
+	- Chris Reigl @emailed
+	- Joe Corr
+	- Trevor O'Brien @emailed
+	- Nigel @done
 	- Ben Malbon
 	- KipV?
 	- Mike Baker panel
@@ -18,16 +28,16 @@
 	- List all speakers - https://docs.google.com/a/aaaa.org/spreadsheet/ccc?key=0AolsLVLuBgcodGVKMEpiRUQ5X0FSY2dkQ1hpTC1vd0E&usp=drive_web#gid=4
 	- Rudina - Oct 17th call 
 ##CreateTech Website Edits:
-	- Schedule
+	- Schedule @done
 	- Background pic with White panels for news
 	- Add times and dates @done 
 	- Home
 		- About - all details
 		- Session descriptions
 			- Advanced topics at CreateTech
-		- Mike D signup page
+		- Mike D signup page @done
 		- Speakers
-		- Agenda
+		- Agenda @done
 		- Blog
 		- CT video -signup page
 			- OUtline of questions for 1 minute videos
@@ -42,7 +52,7 @@
 	- Mark Avnet lunch invite @done
 	
 # Meetings/Calls:
-	- Ray Velez
+	- Ray Velez @done
 		- Experience design in advertising - lead a conversation
 		- data and context, experience design
 	- Tom Goodwin
@@ -55,8 +65,8 @@
 # CreateTech Oct 3:
 - Tickets for Chicago - leave night before? Stay extra day?
 - Jason Snyder @done
-- Mindshare @called
-- Fernanda @emailed
+- Mindshare @called @done
+- Fernanda @emailed @done
 - Sheldon @done
 - Biohacking Panel
 	- Contact Powell @emailed
