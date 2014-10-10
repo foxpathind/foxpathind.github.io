@@ -12,6 +12,7 @@
 	- Time inc preparation
 	- Discounts ??
 	- Query!
+	- Working with William @done
 
 #CreateTech Follow ups:
 	- Chris Reigl @emailed
