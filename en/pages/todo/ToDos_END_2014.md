@@ -11,6 +11,8 @@
 	- Query! @done
 	- pay water ?
 	- Change ADT credit card - AMEX
+	- Email copy
+	- Time Inc offer
 
 #CreateTech Follow ups:
 	- Chris Reigl @emailed @done
