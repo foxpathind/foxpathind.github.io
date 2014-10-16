@@ -22,15 +22,16 @@
 [About](pages/about.md)
 [PageList](PageList.md)
 [ToDo](pages/todo/ToDos_END_2014.md)
+[Taxonomy](pages/WebsiteStrategy/TaxonomyNotes.md)
+[Strategy Project](pages/WebsiteStrategy/WebsiteStrategyMeetingNotes.md)
 [Download](pages/download.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
 ---------------------------------------------------------------------------- -->
-[4A's Website]()
 
-  * [Taxonomy](pages/WebsiteStrategy/TaxonomyNotes.md)
-  * [Strategy Project](pages/WebsiteStrategy/WebsiteStrategyMeetingNotes.md)
+[Taxonomy](pages/WebsiteStrategy/TaxonomyNotes.md)
+[Strategy Project](pages/WebsiteStrategy/WebsiteStrategyMeetingNotes.md)
 
 
 
