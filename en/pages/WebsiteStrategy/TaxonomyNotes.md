@@ -4,8 +4,57 @@
 
 
 
+# October 16, 2014 - 4:10 PM
+- Some concepts (working)
+	- audiences
+    - subjects, topics, issues, POVs
+    - regions
+    - document types
+    - 4As departments
+    - 
+## Anna's Tour
+- Note: Audiences
+	- scrapped the constituents
+    	- not useful for use case
+- General Subjects
+	- Membership information
+    	Benefits
+        Joining (Use) - life cycle
+    - 4A's Communities
+    - Vertical industries - research industry pages
+    	- Check with Marsha
+    - Target Audiences (of advertising)
+    	- B2B
+        - Consumer categories
+        	- Demographics
+ - Agency Compensation
+ 	- what are you charging for?
+    	- Agency Services - as sold
+    	- Agency Roles - Teams
+    	- Activities
+    		- negotiation
+        	- pricing
+            	- methodologies        
+    - parts of relationship
+    	- MSA
+        - Rate Card
+        	- Salaries
+        - Scope of work
+        - Contract
+        - NDA
+        - Owners
+- Duplicate terms
+	- equivalence
 
-October 9, 2014 - 3:11 PM
+- Agency evaluation
+
+- 
+     
+            
+    
+    
+
+# October 9, 2014 - 3:11 PM
 ## Checking With Wordpress Vendors ##
 
 - Taxonomy pilot project
