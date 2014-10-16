@@ -29,13 +29,12 @@
 ---------------------------------------------------------------------------- -->
 [4A's Website]()
   * [Taxonomy](pages/WebsiteStrategy/TaxonomyNotes.md)
-  - - - -
-  * [Strategy Project-using prose](pages/WebsiteStrategy/WebsiteStrategyMeetingNotes.md)
+  * [Strategy Project](pages/WebsiteStrategy/WebsiteStrategyMeetingNotes.md)
 
 
 
 
-[Updates]()
+[UPDATES]()
 
   * ## Updates
   * [All](pages/updates.md)
