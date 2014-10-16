@@ -4,15 +4,11 @@
 	- **CES tix - October 15**
 	- Xmas planning
 	- Vacation
-	- Tweet about Mike D session, tweet about Sheldon M @done
-	- Chicago !! @done
 	- Update website
 	- juicemobile sponsorship @done @emailed
-	- Frank Rose!! @done
 	- Time inc preparation
 	- Discounts ??
 	- Query! @done
-	- Working with William @done
 	- pay water ?
 	- Change ADT credit card - AMEX
 
