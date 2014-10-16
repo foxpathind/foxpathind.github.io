@@ -32,7 +32,7 @@
   * [Taxonomy](pages/WebsiteStrategyTaxonomyNotes.md)
   - - - -
   * ## Strategy
-  * [Strategy Project -using prose](pages/WebsiteStrategyWebsiteStrategyMeetingNotes.md)
+  * [Strategy Project-using prose](pages/WebsiteStrategyWebsiteStrategyMeetingNotes.md)
 
 
 
