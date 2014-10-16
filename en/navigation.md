@@ -28,7 +28,7 @@
 
 ---------------------------------------------------------------------------- -->
 4A's Website]()
-
+ * ## Taxonomy
   * [Taxonomy](pages/WebsiteStrategyTaxonomyNotes.md)
   - - - -
   * ## Strategy
