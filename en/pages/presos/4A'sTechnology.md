@@ -11,6 +11,25 @@
 
 ---
 
+# The Chief Digital Officer Role #
+
+The strategy and design of systems for:
+
+- Business process
+- Service
+- Communication
+
+
+---
+
+# Current Projects #
+
+- Creative Technology committee
+	- Founded to recognize the rise of technology in agency offerings
+	- Major effort: CreateTech conference, now in it's 4th year
+
+---
+
 # Some examples
 
 - TechTalk

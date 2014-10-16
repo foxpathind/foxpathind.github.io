@@ -1,3 +1,40 @@
+### October 16, 2014 - 11:13 AM
+
+##How to use the 4A's webinar- stream meeting
+- How publish the material
+- Video publishing strategy
+	- Vimeo Pro
+		- Private 
+	- Brightcove
+		- Subscription to a specipic app
+	- Youtube
+	- Ooyala?
+- 4A's benefits site?
+	- move to Drupal 7
+	- theme update
+	- no major
+
+## Survey results
+- Reaffirming the thoughts so far
+	- Agency Search
+	- Job search
+	- New business frequent users
+## Taxonomy 
+- Need to do a walkthrough with VML 
+- Marci 
+
+## October 30 walkthrough
+
+
+## Catch with Alison
+
+- Content Strategy
+- Governance model
+	- make realistic
+	- how it could be developed
+
+
+
 ### October 9, 2014 , 11:05 AM ###
 
 ## Survey ##
@@ -21,7 +58,6 @@
 - functionality by users
 - cycles
 - business goals
-
 
 
 

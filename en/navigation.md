@@ -27,6 +27,15 @@
 <!-- A more complex navigation example: ----------------------------------------
 
 ---------------------------------------------------------------------------- -->
+4A's Website]()
+
+  * [Taxonomy](pages/WebsiteStrategyTaxonomyNotes.md)
+  - - - -
+  * ## Strategy
+  * [Strategy Project](pages/WebsiteStrategyWebsiteStrategyMeetingNotes.md)
+
+
+
 
 [Updates]()
 
@@ -36,15 +45,7 @@
   * [Council conference call](BostonCouncilCall22Sept.md)
   * [16 September](pages/CT_Update_16Sept2014.md)
   
-[4A's]()
-
-  * ## 4AsNotes
-  * [4AsNotes](pages/4AsNotes)
-  - - - -
-  * ## SubMenu Heading 3
-  * [SubMenu Item 3](pages/subitem3.md)
-
-
+[
 [Menu Item 3](pages/item3.md)
 
 

@@ -1,33 +1,38 @@
 #TODO - END 2014
 #NOW:
 	- Amex @done
-	- CES tix - October 15
+	- **CES tix - October 15**
 	- Xmas planning
 	- Vacation
-	- Tweet about Mike D session, tweet about Sheldon M
-	- Chicago !!
+	- Tweet about Mike D session, tweet about Sheldon M @done
+	- Chicago !! @done
 	- Update website
 	- juicemobile sponsorship @done @emailed
-	- Frank Rose!!
+	- Frank Rose!! @done
 	- Time inc preparation
 	- Discounts ??
-	- Query!
+	- Query! @done
 	- Working with William @done
+	- pay water ?
+	- Change ADT credit card - AMEX
 
 #CreateTech Follow ups:
-	- Chris Reigl @emailed
+	- Chris Reigl @emailed @done
 	- Joe Corr
-	- Trevor O'Brien @emailed
-	- Nigel @done
+	- Trevor O'Brien @emailed @done
+	- Nigel @emailed 617-635-3518 @called @emailed
 	- Ben Malbon
 	- KipV?
 	- Mike Baker panel
+		- GET NAMES AND EMAIL ADDRESSES
 		- Barbarian Group?
 		- Big spaceship?
 		- Huge!
-	- Biohacking panel
+	- Biohacking panel @emailed
 	- List all speakers - https://docs.google.com/a/aaaa.org/spreadsheet/ccc?key=0AolsLVLuBgcodGVKMEpiRUQ5X0FSY2dkQ1hpTC1vd0E&usp=drive_web#gid=4
 	- Rudina - Oct 17th call 
+	- Winston
+	- 
 ##CreateTech Website Edits:
 	- Schedule @done
 	- Background pic with White panels for news

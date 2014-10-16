@@ -1,1 +1,1 @@
-/Dropbox/mindmaps/Notes/fxpthwiki/foxpathind.github.io/en$ls -R >PagesList.md
+/Dropbox/foxpathind.github.io/en$ls -R >PagesList.md

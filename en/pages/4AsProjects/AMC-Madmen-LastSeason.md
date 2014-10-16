@@ -1,0 +1,44 @@
+## AMC ##
+
+- Final season of MadMen
+- Activate some kind of event/inititive
+- Do a thank you
+- Launch at transformation
+- Announce Transformation
+- Agencies from the 60s - digital stuff the sixities
+	- evolution of campaign
+	- stuff still working
+- Real madmen
+- Cast members
+- physical exhibits
+- _MoMA_
+- Museum of the moving image
+- activate the agency community
+	- website
+	- interactive timeline
+- Capitvate?
+- Advocates? 
+	- don't want to have anything to do with MadMen
+- Points
+	- Salesmen
+	- Insights and campaigns
+	- "Consumer"
+	- Aspirational, future-oriented
+	- ad campigns
+- Not just about madmen but the industry
+- Their future
+	- Madmen is
+- Promote space for the final season
+- Pre activation
+- Longest agency client relationship
+	- AMC sponsoring
+	- Campbell BBDO
+- Sponsors who are they
+	- Lincoln
+- Influence
+	- Fashion
+	- Design - mid century
+	- Cocktails
+	- Food - weird shit
+	- then and now
+- Ad
