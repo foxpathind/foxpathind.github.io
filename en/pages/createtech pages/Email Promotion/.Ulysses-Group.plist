@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>childOrder</key>
+	<array>
+		<string>CTemlimages</string>
+	</array>
+	<key>createMarkedFile</key>
+	<true/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>CTEmailCopy.md</string>
+		</array>
+		<array>
+			<string>CTlotsofphrases.md</string>
+		</array>
+		<array>
+			<string>CreateTechFeedsTheCurious.md</string>
+		</array>
+		<array>
+			<string>Email06Oct2014.md</string>
+		</array>
+		<array>
+			<string>Exploring new territory.txt</string>
+		</array>
+		<array>
+			<string>generic spaceship heading for a planet.txt</string>
+		</array>
+		<array>
+			<string>wagon train or Lewis n Clark engraving or jungle explorer w.md</string>
+		</array>
+		<array>
+			<string>wagon train or Lewis n Clark engraving or jungle explorer w.txt</string>
+		</array>
+	</array>
+</dict>
+</plist>
