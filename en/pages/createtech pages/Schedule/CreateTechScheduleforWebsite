@@ -1,0 +1,236 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+
+<body>
+    <div itemscope="" itemtype="http://schema.org/BusinessEvent" style="line-height:1.2 em;">
+        <h1 itemprop="name">4A's CreateTech 2014</h1>
+
+        <p><span itemprop="startdate" content="2013-11-12T08:00">November 12</span>-<span itemprop="enddate" content="2014-11_13T17:30">13</span>, 2014,<br />
+        <span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><a itemprop="url" href="http://microsoftnewengland.com/">Micorsoft NERD Center, Cambridge, MA</a></span><br />
+        <span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><a itemprop="url" href="http://createtech.aaaa.org">http://createtech.aaaa.org</a></span></p>
+
+        <p><span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><i>Schedule and session length subject to change- Look for updates!</i></span></p>
+
+        <h2><span itemprop="location" itemscope="" itemtype="http://schema.org/Place">Schedule for Wednesday Nov. 12, 2014</span></h2>
+
+        <table>
+            <tr>
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0; width:120px;">Time</td>
+
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0;">Session</td>
+            </tr>
+
+            <tr>
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0; width:120px;">8:00 AM</td>
+
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0;">Breakfast and Registration</td>
+            </tr>
+
+            <tr>
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0; width:120px;">9:00 AM</td>
+
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0;">Welcome to CreateTech!</td>
+            </tr>
+
+            <tr>
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0; width:120px;">9:15 - 10:05 AM</td>
+
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0;">Keynote Panel - "Experience design and a connected world" : <strong>Rudina Seseri</strong>, Partner Fairhaven Capital, moderator with <strong>Dr. Cynthia Brazeal</strong> and <strong>Abby Fichtner</strong></td>
+            </tr>
+
+            <tr>
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0; width:120px;">10:10 - 10:40 AM</td>
+
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0;">"Hang Together or You Will Surely Hang Separately"<strong>John Deschner</strong>, EVP/Executive Director, Digital Account Management, DeutschLA &amp; Paige Parrent, Digital Platforms Manager, VW Marketing</td>
+            </tr>
+
+            <tr>
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0; width:120px;"><em>10:10 - 12:30 AM</em></td>
+
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0;"><em>SPECIAL ACTIVITY, Wearables Design Workshop with <strong>Mike DiGiovani</strong>, Mobile Architect, Isobar - Limited to 15 participants (Another workshop may be scheduled) - <strong><a href="http://goo.gl/EoKIaC">Sign up here!</a></strong></em></td>
+            </tr>
+
+            <tr>
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0; width:120px;">10:45 - 11:15AM</td>
+
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0;">TBD</td>
+            </tr>
+
+            <tr>
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0; width:120px;">11:15 - 11:35 AM</td>
+
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0;">BREAK</td>
+            </tr>
+
+            <tr>
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0; width:120px;">11:40 - 12:00 PM</td>
+
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0;">Session: Stay tuned!</td>
+            </tr>
+
+            <tr>
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0; width:120px;">12:05 - 12:35 PM</td>
+
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0;">"Sweeper": <strong>Conor Brady</strong>, Critical Mass &amp; <strong>United Nations Mine Action Service</strong></td>
+            </tr>
+
+            <tr>
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0; width:120px;">12:35 - 1:35 PM</td>
+
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0;">LUNCH BREAK - 1 hour</td>
+            </tr>
+
+            <tr>
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0; width:120px;">1:40 - 2:10 PM</td>
+
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0;"><strong>Kati London</strong>, Senior Researcher, Microsoft Research, FUSE (Future User Social Experiences)</td>
+            </tr>
+
+            <tr>
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0; width:120px;">2:15 - 3:05 PM</td>
+
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0;">"Beyond Wearables" : <strong>Jason Alan Snyder</strong>, Momentum WorldWide, moderator, <strong>Marcel Botha</strong>, <strong>Jessica Banks</strong>, <strong>Stacey Mulcahy</strong>, <strong>S. Jason Prohaska</strong></td>
+            </tr>
+
+            <tr>
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0; width:120px;">3:05 - 3:25 PM</td>
+
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0;">BREAK</td>
+            </tr>
+
+            <tr>
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0; width:120px;">3:30 - 4:00 PM</td>
+
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0;"><i>Just confirmed!</i> - "The Evolution of the Creative Technologist": <strong>Sheldon Monteiro</strong>, Chief Technology Officer, SapientNitro</td>
+            </tr>
+
+            <tr>
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0; width:120px;">4:05 - 4:55 PM</td>
+
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0;">"Biohacking: connected humans" : <strong>Jason Levy</strong>, Saatchi Wellness, moderator, with <strong>Uwe Gutshcow</strong>, <strong>Steven Dean</strong> and others TBA</td>
+            </tr>
+
+            <tr>
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0; width:120px;">5:00 - 5:30 PM</td>
+
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0;">"Seeing Sounds, Hearing Colors: Experiencing Brands through Synesthesia" : <strong>Layne Braunstein</strong> and <strong>Josh Horowitz</strong>, co-founders of FakeLove</td>
+            </tr>
+
+            <tr>
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0; width:120px;">5:30 PM</td>
+
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0;">Day 1 Wrap Up</td>
+            </tr>
+        </table><span itemprop="location" itemscope="" itemtype="http://schema.org/Place"><br />
+        <br /></span>
+
+        <h2><span itemprop="location" itemscope="" itemtype="http://schema.org/Place">Schedule for Thursday Nov. 13, 2014</span></h2>
+
+        <table>
+            <tr>
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0; width:120px;">Time</td>
+
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0;">Session</td>
+            </tr>
+
+            <tr>
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0; width:120px;">8:00 - 9:00 AM</td>
+
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0;">Breakfast &amp; Networking</td>
+            </tr>
+
+            <tr>
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0; width:120px;">9:00 - 9:15 AM</td>
+
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0;">Welcome back</td>
+            </tr>
+
+            <tr>
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0; width:120px;">9:15 - 9:45 AM</td>
+
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0;">"Introducing Connection Science" <strong>David Shrier</strong>, New Ventures Officer, Managing Director, Connection Science and Engineering, MIT</td>
+            </tr>
+
+            <tr>
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0; width:120px;">9:50 - 10:30 AM</td>
+
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0;">Mindshare Life+ &amp; MapMyFitness</td>
+            </tr>
+
+            <tr>
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0; width:120px;">10:35 - 11:05 AM</td>
+
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0;">Data visualization: <strong>Fernanda Viegas</strong>, Research Scientist, Google</td>
+            </tr>
+
+            <tr>
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0; width:120px;">11:05 - 11:25 AM</td>
+
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0;">Break - 20 minutes</td>
+            </tr>
+
+            <tr>
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0; width:120px;">11:30 - 12:20 PM</td>
+
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0;">"Data, context, spaces and creative": <strong>Mike Baker</strong>, CEO, DataXu moderator, <strong>Bryon Ellis</strong>, Spongecell, others TBA</td>
+            </tr>
+
+            <tr>
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0; width:120px;">12:20 - 1:20 PM</td>
+
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0;">LUNCH BREAK - 1 hour</td>
+            </tr>
+
+            <tr>
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0; width:120px;">1:25 - 1:55 PM</td>
+
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0;"><strong>Nigel Jacob</strong>, Co-founder New Urban Mechanics, City of Boston</td>
+            </tr>
+
+            <tr>
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0; width:120px;">2:00 - 2:30 PM</td>
+
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0;">Art, Copy &amp; Code: <strong>Ben Malbon</strong>, Marketing Director, Creative Partnerships, Google</td>
+            </tr>
+
+            <tr>
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0; width:120px;">2:35 - 3:05 PM</td>
+
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0;">"Music, experience design and connected spaces": <strong>Joel Beckerman</strong>, Founder and Lead Composer, Man Made Music &amp; <strong>AT&amp;T</strong></td>
+            </tr>
+
+            <tr>
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0; width:120px;">3:05 - 3:25 PM</td>
+
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0;">Break - 20 minutes</td>
+            </tr>
+
+            <tr>
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0; width:120px;">3:30 - 4:00 PM</td>
+
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0;">"Activated spaces &amp; expressive environments": <strong>David Schwarz</strong>, Creative Partner, HUSH</td>
+            </tr>
+
+            <tr>
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0; width:120px;">4:05 - 4:50 PM</td>
+
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0;">Agency Innovation Labs: <strong>Mark Logan</strong>, SVP, Innovation, Barkeley &amp; <strong>Michael Phillips</strong>, Director of Digital and Creative Technology, Eleven</td>
+            </tr>
+
+            <tr>
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0; width:120px;">4:55 - 5:20 PM</td>
+
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0;">Session: Stay tuned!</td>
+            </tr>
+
+            <tr>
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0; width:120px;">5:30 PM</td>
+
+                <td style="padding:10px 20px 10px 20px;border-bottom: 1px solid #71bac0;">CreateTech 2014 ends!</td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>

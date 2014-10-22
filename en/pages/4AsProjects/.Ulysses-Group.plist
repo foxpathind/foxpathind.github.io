@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>createMarkedFile</key>
-	<false/>
+	<true/>
 	<key>sheetClusters</key>
 	<array>
 		<array>
@@ -11,6 +11,15 @@
 		</array>
 		<array>
 			<string>RegistrationProject.md</string>
+		</array>
+		<array>
+			<string>AMC-Madmen-LastSeason.md</string>
+		</array>
+		<array>
+			<string>AT Project Management.md</string>
+		</array>
+		<array>
+			<string>Drew10Oct2014.md</string>
 		</array>
 	</array>
 </dict>

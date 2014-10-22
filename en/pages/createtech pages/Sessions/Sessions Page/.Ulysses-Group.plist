@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>SMontiero-EvolutionofCreativeTechnologist.markdown</string>
+		</array>
+		<array>
+			<string>AT&amp;T ManMadeMusic Obscura Digital.md</string>
+		</array>
+		<array>
+			<string>Hush.md</string>
+		</array>
+		<array>
+			<string>Mindshare and MapMyFitness.md</string>
+		</array>
+		<array>
+			<string>Mike Digiovani.md</string>
+		</array>
+		<array>
+			<string>Deutsch LA and Volkswagen.md</string>
+		</array>
+		<array>
+			<string>Fake Love.md</string>
+		</array>
+		<array>
+			<string>David Shrier.md</string>
+		</array>
+		<array>
+			<string>CreateTech 2014 topic development ideas.md</string>
+		</array>
+	</array>
+</dict>
+</plist>

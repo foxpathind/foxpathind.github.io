@@ -7,7 +7,7 @@
 		<string>Archive</string>
 	</array>
 	<key>createMarkedFile</key>
-	<false/>
+	<true/>
 	<key>sheetClusters</key>
 	<array>
 		<array>
@@ -30,6 +30,9 @@
 		</array>
 		<array>
 			<string>UweG-.md</string>
+		</array>
+		<array>
+			<string>CreatTechDescription05Oct2014wSpeakers.md copy.md</string>
 		</array>
 	</array>
 </dict>

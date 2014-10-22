@@ -3,11 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>createMarkedFile</key>
-	<false/>
+	<true/>
 	<key>sheetClusters</key>
 	<array>
 		<array>
 			<string>ToDo - 19Sept2014-b.md</string>
+		</array>
+		<array>
+			<string>ToDo - September 12.taskpaper</string>
+		</array>
+		<array>
+			<string>ToDo - September 12a.taskpaper</string>
+		</array>
+		<array>
+			<string>ToDos_END_2014.md</string>
+		</array>
+		<array>
+			<string>TodoSeptember2014.todo.ft..ft</string>
 		</array>
 	</array>
 </dict>

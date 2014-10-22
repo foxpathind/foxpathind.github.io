@@ -7,6 +7,6 @@
 		<string>ARM Team participation.resources</string>
 	</array>
 	<key>createMarkedFile</key>
-	<false/>
+	<true/>
 </dict>
 </plist>

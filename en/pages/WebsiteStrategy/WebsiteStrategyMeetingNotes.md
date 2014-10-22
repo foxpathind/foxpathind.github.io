@@ -25,13 +25,20 @@
 
 ## October 30 walkthrough
 
-
 ## Catch with Alison
 
 - Content Strategy
 - Governance model
 	- make realistic
 	- how it could be developed
+
+## Presenatation
+- Nov 17-18
+- Approvals during Thanksgiving
+
+## Stage 2 - Experience and Service Design Project 
+- Start working on a scope of work soon to be ready for 1st Qtr 2015
+- - Include graphic design prototyping
 
 
 

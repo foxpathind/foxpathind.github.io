@@ -5,9 +5,10 @@
 	<key>childOrder</key>
 	<array>
 		<string>My Notes</string>
+		<string>Archive</string>
 	</array>
 	<key>createMarkedFile</key>
-	<false/>
+	<true/>
 	<key>sheetClusters</key>
 	<array>
 		<array>
@@ -36,6 +37,15 @@
 		</array>
 		<array>
 			<string>Website Strategy Notes Ongoing.md</string>
+		</array>
+		<array>
+			<string>alison-notes.md</string>
+		</array>
+		<array>
+			<string>TaxonomyNotes.md</string>
+		</array>
+		<array>
+			<string>WebsiteStrategyMeetingNotes.md</string>
 		</array>
 	</array>
 </dict>

@@ -1,3 +1,19 @@
+
+October 21, 2014 - 3:07 PM
+
+Jason Levy - bio hacking 
+solid diffentiator
+- two leads of the new york 
+- i have notion around bio hacking 
+
+
+Jason S - focusing on Brands in the space
+- Oliver radical life extension - interesred
+- Benjamin Mallory - digital astra zen - AZ
+- Ellen Jorgenson
+- IP department - patent 
+
+
 ## Jason Levy
 ### Future 15 at SXSW
 - Biohacking group - Borg fest

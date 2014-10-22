@@ -1,0 +1,5 @@
+# Hang Together or You Will Surely Hang Separately
+## Deutsch LA and Volkswagen
+To create a new automotive shopping tool that was truly inventive and globally relevant, we not only needed the best creatives, technologists and producers in the business, we also had to create an international team of marketers, project managers, international IT leadership and money people to carry it across the finish line. 
+
+While these groups often have competing priorities and skill sets, this team was charged with collaborating across nine time zones, several languages, seven companies, global scrutiny and a complete change in leadership. We’ll discuss how the right internal champions and external partners were selected, motivated and engaged to let us clear all the hurdles that plague these large-scale efforts on the way to an on-time launch of an award winning product.

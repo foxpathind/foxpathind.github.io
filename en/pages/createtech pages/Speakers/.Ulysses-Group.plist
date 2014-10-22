@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>createMarkedFile</key>
-	<false/>
+	<true/>
 	<key>sheetClusters</key>
 	<array>
 		<array>
@@ -26,6 +26,18 @@
 		</array>
 		<array>
 			<string>JasonLevy.md</string>
+		</array>
+		<array>
+			<string>BigBannerSlidePhotoIDs.md</string>
+		</array>
+		<array>
+			<string>ByronEllis.md</string>
+		</array>
+		<array>
+			<string>JohnCain.md</string>
+		</array>
+		<array>
+			<string>SpeakersList.md</string>
 		</array>
 	</array>
 </dict>

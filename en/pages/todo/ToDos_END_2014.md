@@ -1,51 +1,74 @@
 #TODO - END 2014
 #NOW:
 	- Amex @done
-	- **CES tix - October 15**
+	- **CES tix - October 15** @done
 	- Xmas planning
 	- Vacation
-	- Update website
+	- Update website @done
 	- juicemobile sponsorship @done @emailed
-	- Time inc preparation
-	- Discounts ??
+	- Time inc preparation @done
+	- Student Discounts ??
 	- Query! @done
-	- pay water ?
-	- Change ADT credit card - AMEX
-	- Email copy
-	- Time Inc offer
+	- pay water ? @done
+	- Email copy for Wednesday 
+	- Time Inc offer @done
+	- Att bill 
+	- Hotel Rooms for CreateTech
+	- 3 sessions
+		- Chris Reigl
+		- time Inc @done
+		- ?? lebowitz? @done
+		- mcD @done
+	- Send message to committee
+	- Abbe- VML billing @done
+	- JWT names for Jim McArthur to follow up
+	- Michael Philips ?
+	- Biohacking panel - Call tomorrow
+	- Rudina - Oct 24th call 
+	- Check out elasticsearch.com some time. ELK is elasticsearch + logstash + kibana.
+
+#CreateTech Logistics:
+	- MC wrangling
+	- MC Form
+	- Statements for dead air, summaries of the conference
+		- Press?
+		- Who wrangles press?
+	- 
+
+
+	
 
 #CreateTech Follow ups:
 	- Chris Reigl @emailed @done
 	- Joe Corr
 	- Trevor O'Brien @emailed @done
 	- Nigel @emailed 617-635-3518 @called @emailed
-	- Ben Malbon
+	- Ben Malbon @emailed
 	- KipV?
 	- Mike Baker panel
 		- GET NAMES AND EMAIL ADDRESSES
-		- Barbarian Group?
-		- Big spaceship?
-		- Huge!
-	- Biohacking panel @emailed
-	- List all speakers - https://docs.google.com/a/aaaa.org/spreadsheet/ccc?key=0AolsLVLuBgcodGVKMEpiRUQ5X0FSY2dkQ1hpTC1vd0E&usp=drive_web#gid=4
-	- Rudina - Oct 17th call 
-	- Winston
+		- Barbarian Group? @done
+		- Big spaceship?@done
+		- Huge! @done
+	- List all speakers - https://docs.google.com/a/aaaa.org/spreadsheet/ccc? key=0AolsLVLuBgcodGVKMEpiRUQ5X0FSY2dkQ1hpTC1vd0E&usp=drive_web#gid=4 @done
+	- Winston @done
 	- 
 ##CreateTech Website Edits:
+	- CT video -signup page
+		- OUtline of questions for 1 minute videos
+
+
 	- Schedule @done
 	- Background pic with White panels for news
 	- Add times and dates @done 
 	- Home
 		- About - all details
-		- Session descriptions
+		- Session descriptions @done
 			- Advanced topics at CreateTech
 		- Mike D signup page @done
 		- Speakers
 		- Agenda @done
-		- Blog
-		- CT video -signup page
-			- OUtline of questions for 1 minute videos
-
+		- Blog @done
 #CreateTech Emails:
 	- 3 speakers phots and copy
 	- New York specific

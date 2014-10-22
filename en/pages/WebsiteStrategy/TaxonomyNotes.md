@@ -1,5 +1,72 @@
-## Taxonomy Project ##
+# Taxonomy Project
 
+##October 21, 2014 - 4:10 PM
+
+
+
+### Taxonomy intro
+
+### Discussion
+- User testing
+     - Card sorting
+- Types
+     - Navigation
+     - Faceted search
+     - Search
+     - MESE
+          - Mutualally exclusive
+          - Exhaustive
+     - Navigation vs Organization
+- The 4As perspective not necessarily the outside perspective
+     - Not prompted to use a outside perspective
+- Taxonomy doesn’t have to be navigation
+     - Needs rules
+     - No soft rules
+     - Relevance
+     - Strongly related
+- Strategy
+     - Audience types
+          - Levels
+     - Tagging for those audiences
+     - Access
+          - permissions
+          - role
+- Conceptual grouping
+     - Gap analysis
+     - Content life spans
+          - creation data
+          - check for relevance
+
+- Strategy meeting
+     - Strategy
+     - Content strategy
+
+
+##CF Notes
+- Taggers needs
+- Conceptual groupings
+     - Themes
+     - Subjects
+     
+
+## Walkthrough
+- What would be human-applied by the tagger
+- Audiences
+- Regional
+     - International
+          - non-US
+          - (probably need world regions)
+     - Councils
+- Agency Lifecycle
+- Content types
+     - mobile ready?
+
+
+
+October 20, 2014 - 5:35 PM
+## Staff on the taxonomy
+- Look at staff
+- Keep Marci through March
 
 
 

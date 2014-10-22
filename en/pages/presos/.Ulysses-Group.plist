@@ -3,14 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>createMarkedFile</key>
-	<false/>
+	<true/>
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>CTEmailCopy.md</string>
+			<string>4A'sTechnology.md</string>
 		</array>
 		<array>
-			<string>CTlotsofphrases.md</string>
+			<string>SLIDES.md</string>
+		</array>
+		<array>
+			<string>Techtalk2014-B2Bversion.md</string>
+		</array>
+		<array>
+			<string>Techtalk2014-B2BversionSLIDES2.md</string>
+		</array>
+		<array>
+			<string>TEST-TechTalk.md</string>
 		</array>
 	</array>
 </dict>

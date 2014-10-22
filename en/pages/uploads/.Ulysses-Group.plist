@@ -12,6 +12,6 @@
 		<string>presentations</string>
 	</array>
 	<key>createMarkedFile</key>
-	<false/>
+	<true/>
 </dict>
 </plist>

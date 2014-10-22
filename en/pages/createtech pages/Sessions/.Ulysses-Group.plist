@@ -2,15 +2,17 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>childOrder</key>
+	<array>
+		<string>Archive</string>
+		<string>Sessions Page</string>
+	</array>
 	<key>createMarkedFile</key>
-	<false/>
+	<true/>
 	<key>sheetClusters</key>
 	<array>
 		<array>
 			<string>ATTManMade.md</string>
-		</array>
-		<array>
-			<string>CreateTech 2014 topic development ideas.md</string>
 		</array>
 		<array>
 			<string>DDBMcDonalds.md</string>
@@ -50,6 +52,51 @@
 		</array>
 		<array>
 			<string>Powell08Sep2014.md</string>
+		</array>
+		<array>
+			<string>AlanSchulman.md</string>
+		</array>
+		<array>
+			<string>AndrewMason.md</string>
+		</array>
+		<array>
+			<string>ByronEllis-CTO- Spongecell.md</string>
+		</array>
+		<array>
+			<string>CTIA_06Oct2014.md</string>
+		</array>
+		<array>
+			<string>hush_call.md</string>
+		</array>
+		<array>
+			<string>JohnCain.md</string>
+		</array>
+		<array>
+			<string>KatiLondon.md</string>
+		</array>
+		<array>
+			<string>Keith Johnston.md</string>
+		</array>
+		<array>
+			<string>MikeBakerConversation.md</string>
+		</array>
+		<array>
+			<string>mindshare.md</string>
+		</array>
+		<array>
+			<string>Rachel Law Interface Foundry.md</string>
+		</array>
+		<array>
+			<string>rudina_-_update.md</string>
+		</array>
+		<array>
+			<string>sessions-intro.md</string>
+		</array>
+		<array>
+			<string>TimeInc.md</string>
+		</array>
+		<array>
+			<string>WorkshopSignups.md</string>
 		</array>
 	</array>
 </dict>

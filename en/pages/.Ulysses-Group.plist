@@ -8,9 +8,30 @@
 		<string>imgs</string>
 		<string>meetings</string>
 		<string>todo</string>
+		<string>4AsNotes</string>
+		<string>4AsOperations</string>
+		<string>4AsProjects</string>
+		<string>4AsStrategy</string>
+		<string>CF</string>
+		<string>createtech</string>
+		<string>createtech pages</string>
+		<string>Ideas-Blog</string>
+		<string>Internet of things</string>
+		<string>Meetings Correspondance</string>
+		<string>Mobile App</string>
+		<string>NOTES</string>
+		<string>presos</string>
+		<string>Research</string>
+		<string>Scriv</string>
+		<string>Templates</string>
+		<string>TO READ</string>
+		<string>Training Education</string>
+		<string>VooDooPad</string>
+		<string>wearables</string>
+		<string>WebsiteStrategy</string>
 	</array>
 	<key>createMarkedFile</key>
-	<false/>
+	<true/>
 	<key>sheetClusters</key>
 	<array>
 		<array>
@@ -43,6 +64,14 @@
 		<array>
 			<string>Techtalk2014-B2BversionSLIDES.md</string>
 		</array>
+		<array>
+			<string>PagesList.txt</string>
+		</array>
+		<array>
+			<string>t-3.md</string>
+		</array>
 	</array>
+	<key>userIconName</key>
+	<string>Box</string>
 </dict>
 </plist>
