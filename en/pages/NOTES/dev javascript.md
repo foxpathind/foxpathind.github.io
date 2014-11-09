@@ -1,0 +1,44 @@
+#Dev
+
+- Lucas
+- fire base 
+- kinvay 
+- backend as a service
+- .net
+	- rest api 
+	- visual studio 
+	- routes in MVC
+	- grunt 
+- backend depends on client 
+	- skill set
+	- ecosystem 
+	- tooling
+	- meat stack
+	- mean
+	- .net missing tools
+	- mean have to build more tools
+	- team foundation server
+- PHP
+	- delineate backend front end in rest api
+	- larabel 
+- authentication was the distinguishing characteristic
+	- node passport
+	- fire base oauth 
+	- standardize on oauth 
+	- rails devise 
+	- rails doorkeeper
+- angular fire
+- node and express 
+	- most common
+	- restfull  framework
+	- javascript all the time
+	- queue and promises
+	- promise base 
+	- KOA stack
+	- MEAN stack
+- picks
+	- strange loop conference
+	- Larry lessig oscon 2002
+	- edu conf 
+	- es 6 front end masters
+* Two factor auth dot org 

@@ -1,3 +1,44 @@
+October 28, 2014 - 10:08 AM
+
+#LB
+## KC recap
+- Goals, KPIs and collaboration
+- Chart 
+## "What's on your mind?"
+- Webinar
+	- May me feel good
+	- Too long
+	- Make in smaller chunks, topic based
+- Joe and website
+	- resources and process
+	- LB using the web site to get closer to our website
+- Events 
+	- ELP
+	- on-premise event
+		- event materials
+	- CT
+- Jim 
+	- new terminale
+	- webinars
+## Make our expectations clear
+- Everyone's responsibility
+- Repeat back what you think is being asked
+- Principles
+	- time
+	- quality
+	- others needed
+	- authority
+- Accounting 
+	- quarterly billing ready for December
+- Year in Review
+	
+	
+
+
+
+
+
+
 September 23, 2014 - 10:07 AM
 
 #XChange

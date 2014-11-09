@@ -1,0 +1,3 @@
+#Beyond Wearables
+## Jason Alan Snyder, Momentum WorldWide, moderator, Marcel Botha, Jessica Banks, Stacey Mulcahy, S. Jason Prohaska
+What happens when the "wearable" we buy moves inside of us? From our wrists and necks to the inside of our bodies? Today we are the intersection of "bits" and "atoms." As those lines blurs we see an advancing merger between our biology and our technology. These ideas have lived on the fringe for a while but with the adoption of biometrics in our smart devices (finger prints, heart rate, etc.) this convergence is now mainstream . So what's next? And what are the implications for advertisers and brands in this new space? This panel will explore these ideas as they come to manifest in the near term and a bit further out.

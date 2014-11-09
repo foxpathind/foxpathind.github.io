@@ -8,5 +8,14 @@
 	</array>
 	<key>createMarkedFile</key>
 	<true/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>dev javascript.md</string>
+		</array>
+		<array>
+			<string>unix-python.md</string>
+		</array>
+	</array>
 </dict>
 </plist>

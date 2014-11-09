@@ -1,6 +1,12 @@
+### November 6, 2014 - 11:01 AM
+## 
+
+
+
+
 ### October 16, 2014 - 11:13 AM
 
-##How to use the 4A's webinar- stream meeting
+##How to use the 4A's webinar- tream meeting
 - How publish the material
 - Video publishing strategy
 	- Vimeo Pro

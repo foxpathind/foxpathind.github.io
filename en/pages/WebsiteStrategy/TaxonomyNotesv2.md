@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Taxonomy Project
 
 ##October 21, 2014 - 4:10 PM

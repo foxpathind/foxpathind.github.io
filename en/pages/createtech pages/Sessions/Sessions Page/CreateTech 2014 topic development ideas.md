@@ -34,3 +34,8 @@ What are the design challenges and opportunities?
 	- What can we learn from their advances and how have they contributed to some of the industries most stunning work?
 	- What are the technologies now used by the Art&Code, DevArt to produce new age aesthetic experiences that might be relevant to these opportunities.
 
+###Note to Ben Malbon
+
+We will also be exploring the intersection of technology and creativity in many ways and not only the internet of things.
+
+One theme of the conference is that the internet of things will have an impact on design of communications the way that the ascendence of personal and personal mobile technology has had. Perhaps at least as much. So exploring many of the ways that “digital” is shaping creative is important and relevant. I like to think we try a push just a little harder outside our comfort zones at Createtech, to create a place for the already-tech-savvy to explore the possibilities and not only actualities.

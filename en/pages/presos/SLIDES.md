@@ -99,7 +99,8 @@
 
 #Behavioral trends
 - A generation = 5 years
-- Digital overload, Facebook fatique
+- Digital overload
+- Facebook habit
 - Mobile video
 - Cloaking apps - Snapchat et al
 - Flattening of authority
@@ -117,7 +118,7 @@
 
 #Technology in business
 - Foreign affairs
-	- Two disruptors: globalization/technology
+	- Two disruptors: globalization & technology
 - Gartner: CEO's top issues: 
 	1.talent to meet an uncertain world, 
 	2.more contribution from their technology leaders
@@ -132,11 +133,11 @@
 
 
 
-#Technology now drives marketing business and brand experience
-- New titles: emerging technologies director, innovation officer, creative technologist
-- media metrics data and social data analysts
-- enterprise technologies, client partners and collaboration
-- specialists technology (robotics, gaming, A/R etc)
+#Technology now drives marketing business and brand experience = New agency roles
+- Emerging technologies director, innovation officer, creative technologist
+- Media metrics data and social data analysts
+- Enterprise technologies integrator ( client partners and collaborator)
+- Technology specialists  (robotics, gaming, A/R etc)
 
 
 
@@ -145,9 +146,9 @@
 
 
 
-#Technology now drives marketing business and brand experience
+#Technology now drives marketing business and brand experience = New agency capabilties:
 - data management and application design
-- society and net culture sociologists, ethnographers and researchers
+- Society and net culture sociologists, ethnographers and researchers
 - transmedia and social media strategy and planning
 - project management, the new face of account services
 
@@ -156,10 +157,22 @@
 ---
 
 
-#4 areas of concentration at 4As
+#Technology at 4A's agencies
 - Technology expertise and management now a part of agency operations creative. 
 - Responsibilities now overlap with many of the agency roles today. 
 - From strategy to delivery, agency activities now have a technology component or have become technology driven.
+
+
+---
+
+
+
+
+#4 areas of concentration at 4As
+- Creative technologies - experience design to software delivery
+- Marketing technolgy stack
+- Media and digital advertising operations
+- Agency technologist communities
 
 
 ---
@@ -181,6 +194,7 @@
 	- CRM
 	- Systems integration
 	- Data science and analytics
+	
 
 
 ---
@@ -218,9 +232,10 @@
 ---
 
 #Some Issues in forefront for 2014
-- Increased enterprise technology and project management requirements 
+- Managing enterprise technology and project management requirements 
 	- service level agreements
-	- security and project management certifications)
+	- security and project management certifications
+	- Acceptance criteria and responsibilities
 - New digital strategy and creative development practices and participants
 
 
@@ -243,7 +258,7 @@
 	- Skills assessment
 - Moving to the consulting model?
 	- Production still providing the profits
-- CMO CIO connection
+- Client CMO+CIO relationship building
 
 
 ---

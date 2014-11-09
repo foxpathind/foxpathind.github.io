@@ -1,5 +1,27 @@
 # Taxonomy Project
 
+## October 29, 2014 - 3:07 PM
+###Taxonomy Update
+- The importance of taxonomy
+	- discoverability
+	- audience targeting
+		- what do i do 
+	- related items
+		- how to do a deeper dive
+	- terminology
+		- suggested terms
+- Questions for 
+	- Final deliverable
+	- Did you start with a set of documents already categorized
+	- what process did you use to create a taxonomy
+		- did the website design have a role in the kind of taxonoy chosen
+	- what was the state of the organization of the dcument categorization when you started
+	- tags versus top level topics
+	
+
+
+
+
 ##October 21, 2014 - 4:10 PM
 
 

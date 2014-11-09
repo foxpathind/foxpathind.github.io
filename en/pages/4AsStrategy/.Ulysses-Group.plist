@@ -8,5 +8,17 @@
 	</array>
 	<key>createMarkedFile</key>
 	<true/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>Amazon.md</string>
+		</array>
+		<array>
+			<string>MediaOcean.md</string>
+		</array>
+		<array>
+			<string>PR-Running-Notes.md</string>
+		</array>
+	</array>
 </dict>
 </plist>

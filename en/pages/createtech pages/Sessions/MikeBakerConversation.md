@@ -61,3 +61,50 @@ https://www.youtube.com/watch?v=DRgs8L4AOgc
 https://www.youtube.com/watch?v=gomIN0BmZRo
 
 Let me know if I can do anything else—connect you with Byron, put together a formal submission, etc.  Thanks!
+
+
+----
+October 29, 2014 - 2:04 PM
+
+
+Vlad Monotype - core tech, digital media, W3C - tech strategist
+Bryon Ellis - ad tech, dynamic creative, data signals into ad domain, personalization as well as interactive features, airlines, snow pack, big data guy. Science
+Katy at DataXu
+John Cain - MIA
+Mike Baker - programmatic buying platform, looks at 30 lots a data, context brand specific algorithms - drive marketing ROI
+
+The panel- talking the creatives
+Writing a final precis
+Connected age - different environement, customer experience, mobile instantiates the customer experience, data poor to data overload, media scarcity over abundant
+initial - the creative layer is it keeping up? what are the possibilities.
+what's real today - what is dynamic creative today
+what people are willing to pay
+
+- the consumers environment
+- the technical challenge and the creative assets challenges
+- 
+
+## Questions
+- What data is available?
+- what tools and platforms are available and coming?
+- management and workflow
+- automated creative what does that look like
+- everything as a service, on-demand, primitive services elements
+- just in time utility
+- design creative primitives for speed of life
+	- sponge cell features, attached or not attached to data
+- development lifecycle
+- mass scale new scale - QA the creative at the individual dynamic level
+	- sampling of QA
+	- analytics, not provable bottom
+	- census bases approved
+- @vlad - ability the set of tools is what is given to them
+	- what's possible on creative side are limited
+	- preserve brand identity - which elements? - downloadable fonts
+	- personalization across the connected experience
+		- not accessible to creatives
+- showing some visuals but put into - a presentation
+	- katy - wil gather
+	- show you what I mean?
+- summarize talking points 
+

@@ -1,38 +1,59 @@
 #TODO - END 2014
-#NOW:
-	- Amex @done
-	- **CES tix - October 15** @done
-	- Xmas planning
-	- Vacation
-	- Update website @done
-	- juicemobile sponsorship @done @emailed
-	- Time inc preparation @done
-	- Student Discounts ??
-	- Query! @done
-	- pay water ? @done
-	- Email copy for Wednesday 
-	- Time Inc offer @done
-	- Att bill 
-	- Hotel Rooms for CreateTech
-	- 3 sessions
-		- Chris Reigl
-		- time Inc @done
-		- ?? lebowitz? @done
-		- mcD @done
-	- Send message to committee
-	- Abbe- VML billing @done
-	- JWT names for Jim McArthur to follow up
-	- Michael Philips ?
-	- Biohacking panel - Call tomorrow
-	- Rudina - Oct 24th call 
-	- Check out elasticsearch.com some time. ELK is elasticsearch + logstash + kibana.
 
-#CreateTech Logistics:
-	- MC wrangling
-	- MC Form
+#03 nov: 
+- - mlebowitz  @ @done
+#Monday Nov 10:
+	- Email Copy for Monday
+	- Questions for video
+	- List of committee members for Tuesday?wednesday/Thursday dinners
+	- coordinate opening and closing and MCs @lizr 
+	- Att bill 
+	- hotel @done
+	- Train!! @done
 	- Statements for dead air, summaries of the conference
 		- Press?
-		- Who wrangles press?
+	- CT video -signup page
+		- OUtline of questions for 1 minute videos
+	- Signup for dinners
+		- Tim L 
+		- Find restaurants
+		- Signup form
+		- Wednesday night
+		- Jeffersonian dinner
+		- get recos by Monday night
+	- Assignments
+		- Send out @done
+		- Review
+		- Google Doc with Bios/Session info
+	
+
+	
+# Dev Research:
+- Check out elasticsearch.com some time. ELK is elasticsearch + logstash + kibana.
+- RabitMQ
+
+# 22Squared:
+- discussion of IT - generally how we have crafted our infrastructure - and for discussion
+	- any thoughts how other mid size shops are managing IT, tools, platforms
+	- discussion of storage management
+	- role of IT in client delivery
+
+#Home:
+	- Coffee order: http://shop.lacolombe.com/products/ethiopia-ardi
+	- http://www.theroasterie.com/coffee/origin/ethiopia/ethiopia-sidamo
+	- https://www.trebilcockcoffee.ca/coffee/ethiopian-sidama-ardi-detail
+
+# ad tech review:
+- audit issues and pubs
+- categories
+- managing an agency, managing creative work, managing client relationsips @strategic_concepts 
+
+ 
+#CreateTech Logistics:
+	- MC wrangling
+	- MC Form ?
+	
+		- Who wrangles press? rose.levy @done
 	- 
 
 
@@ -53,28 +74,6 @@
 	- List all speakers - https://docs.google.com/a/aaaa.org/spreadsheet/ccc? key=0AolsLVLuBgcodGVKMEpiRUQ5X0FSY2dkQ1hpTC1vd0E&usp=drive_web#gid=4 @done
 	- Winston @done
 	- 
-##CreateTech Website Edits:
-	- CT video -signup page
-		- OUtline of questions for 1 minute videos
-
-
-	- Schedule @done
-	- Background pic with White panels for news
-	- Add times and dates @done 
-	- Home
-		- About - all details
-		- Session descriptions @done
-			- Advanced topics at CreateTech
-		- Mike D signup page @done
-		- Speakers
-		- Agenda @done
-		- Blog @done
-#CreateTech Emails:
-	- 3 speakers phots and copy
-	- New York specific
-	- East Coast specific
-		- Hotel info
-
 # Education/Training:
 	- Mark Avnet lunch invite @done
 	
@@ -89,29 +88,7 @@
 		- Brownstein Ricoh billboard 
 			- Artist rep'ping
 		- Dec. 9 change??
-# CreateTech Oct 3:
-- Tickets for Chicago - leave night before? Stay extra day?
-- Jason Snyder @done
-- Mindshare @called @done
-- Fernanda @emailed @done
-- Sheldon @done
-- Biohacking Panel
-	- Contact Powell @emailed
-	- Uwe Gutshow Innocean @emailed @JaimeLevitt @PowellComm @done
-	- Camilo ?
-	- Steven Dean
-- Mike Baker panel
-	- no Ray?
-	- Anne Balsamo ? @emailed
-- Nigel @emailed
-- Chris Reigl @troy @emailed
-- Memi
-- Kati London @emailed @done
-- Oonie Chase - https://www.linkedin.com/profile/view?id=282353&authType=name&authToken=EKMe&trk=prof-sb-browse_map-name
-- Circle ?? @>Trevor @done
-- Anne Balsamo @emailed
-- Kip V?
-- Critcal Mass @emailed @done
+
 
 #Dates
 |Name	| Session Title	| Date range	|???	|  
@@ -120,18 +97,7 @@
 |Dean	|Bio hacking Panel	|Thursday	|entry	|   
 
  
-# Sept:
 
-- Jessie.Hennion@porternovelli.com @done
-- Marci on interviews @done
-- letter to Kip @done
-- Pam Coffee - Oct 3
-- Pam L accept the ATT/manmadeMusic proposal @done
-- Justin email @done
-	- Ray Velz 
-	- Anne from New School @done
-	- how can we help bringing expereince design projects to attract agencies and gather knowledge for the industry
-		- 4A's experience design committee
 
 - Journalism program get back to ???
 
@@ -139,13 +105,8 @@
 - Wiki database of all sources for digital technology and advertising
 	- Need namespace heirachy for all projects and information domains
 	- Extensible
-- Collect queries from research, membership, media, biz
-- Consolidate all Createtech assets - videos, text, description, pix etc
-- Amex/Expenses
-- CT hotel @done
-- Employee assessment
-	- Check in with Joe on spreadhseet etc
-	- Schedule
+	- AdExchanger listing
+
 	- 
 ## Calls/Meetings
 
@@ -161,9 +122,7 @@ Week of 19 Sep
 	- Anne at New School
 - Brett Harned - HappyCog
 - Nikki @ Tealium @CreateTech
-- Emails to Andrew re Chris and Nathan @done
-- get back to pennsylvania agency SWBR 9:30 9/17
-- 
+
 ## Connect:
 - Brett Harned - HappyCog
 - Nikki @ Tealium @CreateTech
@@ -181,23 +140,7 @@ Teach Yourself SQL in One Hour a Day @done
 	- Database Concepts
 	- Creative concepts
 
-# CreateTech:
-- Edit update to committee @done
-- Add to update
-	- Chris Denson 
-	- Biohacking
-	- Out of home
-	- Innovation Labs
-- List all contacts
-- **Schedule** planning
-- Venue
-- Correspondence
-- Query @done
-- Get MB’s outline @done
-- Scott Rabe... and the Future 4 awards @done
-- Add innovation lab survey BACK onto website @ctwebsite
-- Schedule Table
-- List all open proposals @done
+
 
 
 |Proposal|Contact|
@@ -263,11 +206,6 @@ www.collegeforcreativestudies.edu
 Phone: 313-664-7460
 Fax: 313-664-7881
 
-
-
-## Conferences and Invitations
-- Adobe CMO Summit - November 20 @done
-- CDO Silicon Valley
 
 
 
