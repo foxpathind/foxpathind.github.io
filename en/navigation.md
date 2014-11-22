@@ -16,17 +16,11 @@
 [ToDo](pages/todo/ToDos_END_2014.md)
 [Download](pages/download.md)
 
-<!-- A more complex navigation example: ----------------------------------------
-
----------------------------------------------------------------------------- -->
-
 [Website Strategy]()
 
 * [Taxonomy Project](pages/WebsiteStrategy/TaxonomyNotes-Running.md)
-* [Websute Strategy meeting Notes](pages/WebsiteStrategy/WebsiteStrategyMeetingNotes.md)
+* [Website Strategy meeting Notes](pages/WebsiteStrategy/WebsiteStrategyMeetingNotes.md)
 * [StrategyPresenatation Nov 20](pages/WebsiteStrategy/Website_Strategy_20Nov2014.md)
-
-
 
 
 [UPDATES]()
@@ -57,12 +51,8 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-
 [gimmick:themechooser](Choose theme)
 
 <!-- set a default theme -->
 [gimmick:theme (inverse: false)](bootstrap)
-
-
-
 
