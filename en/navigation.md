@@ -5,12 +5,6 @@
 
 # FoxpathWiki
 
-<!-- set a default theme -->
-[gimmick:theme (inverse: false)](bootstrap)
-
-<!-- show a theme chooser in the menu bar -->
-[gimmick:ThemeChooser](Change theme)
-
 
 <!--
   -- Navigation
@@ -20,14 +14,19 @@
 [About](pages/about.md)
 [PageList](PageList.md)
 [ToDo](pages/todo/ToDos_END_2014.md)
-[Taxonomy](pages/WebsiteStrategy/TaxonomyNotes.md)
-[Strategy Project](pages/WebsiteStrategy/WebsiteStrategyMeetingNotes.md)
 [Download](pages/download.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
 ---------------------------------------------------------------------------- -->
 
+[Website Strategy]()
+
+*[Taxonomy Project](pages/WebsiteStrategy/TaxonomyNotes-Running.md)
+
+*[Websute Strategy meeting Notes](pages/WebsiteStrategy/WebsiteStrategyMeetingNotes.md)
+
+*[StrategyPresenatation Nov 20](pages/WebsiteStrategy/Website_Strategy_20Nov2014.md)
 
 
 
@@ -62,5 +61,10 @@
 
 
 [gimmick:themechooser](Choose theme)
+
+<!-- set a default theme -->
+[gimmick:theme (inverse: false)](bootstrap)
+
+
 
 
