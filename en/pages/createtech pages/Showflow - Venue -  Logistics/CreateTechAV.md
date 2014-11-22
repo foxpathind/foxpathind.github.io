@@ -1,0 +1,28 @@
+## CreateTech A/V ##
+
+- AV clicker
+- AV desk
+- presenter should bring own remote
+- presenter do their own rehearsal
+- presentations loaded on the AV desk
+	- switcher
+	- audio
+	- 2 computers
+	- presentation on show computers
+		- PC?
+	- Title slides
+	- MC introductions - AV desk will switch 
+	- Mike the speakers?
+	- Switch the slides
+	- bring in someone ? - PSAV
+- they may have a AV computer
+- Recap
+	- Hook up at front, prefer 2
+	- AV desk - 2 computers
+	- Show computers
+	- Lavs and hand held
+	- AV switcher
+	- Remote clicker
+	- staff
+	- Stage?
+	- Directors chairs

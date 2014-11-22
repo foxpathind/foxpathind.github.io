@@ -73,7 +73,7 @@ Katy at DataXu
 John Cain - MIA
 Mike Baker - programmatic buying platform, looks at 30 lots a data, context brand specific algorithms - drive marketing ROI
 
-The panel- talking the creatives
+The panel- talking to the creatives
 Writing a final precis
 Connected age - different environement, customer experience, mobile instantiates the customer experience, data poor to data overload, media scarcity over abundant
 initial - the creative layer is it keeping up? what are the possibilities.

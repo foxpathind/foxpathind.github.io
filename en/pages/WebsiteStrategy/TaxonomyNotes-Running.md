@@ -1,5 +1,84 @@
 # Taxonomy Project
 
+## November 22, 2014 - 4:01 PM
+
+_email notes_
+
+Yes i think we’re headed for multiple taxonomies, most rather small for the “facets” that will be used for searching for things:
+
+Further “sketching”...
+
+- Audience
+	- Role
+		- Constituencies
+		- Normalized Job Descriptions
+		
+	- Role Category 
+		- (Examples)
+		- Minder - Managing your agency
+		- Finder - Managing clients
+		- Grinder - Managing the work
+		- (might add)
+		- Managing your career
+- Activities
+- Regions
+- Topics
+- Issues
+- Content Type
+- Content Format
+
+
+All of this can be handled in WordPress
+The document management part though not
+
+
+More later!
+
+
+## November 21, 2014 - 12:50 PM
+
+- Meeting with Austin
+- Set up the meeting
+- Designing the taxonomy for faceted search
+	- comprehensiveness
+	- usefully shallow
+- Kaiser Data taxonomy migration
+	- taxonomy restructure
+	- Kaisier from 12 website to one
+	- user oriented
+- Writers have to tag their work
+- Controlled vocabulary
+- Look at multiple axes
+	- topics
+		- 
+	- tags
+	- content type
+		- opt in content type to create type
+		- for system organization fields and template
+		- web and pdf - format
+		- issue briefs, reports, poll report, fact sheet, policy tracker
+
+
+
+
+###
+-  What is the current state of WordPress taxonomy tools -- maturity and sophistication of existing plug-ins, etc.? 
+
+- Did Alley start with one of those plug-ins, or build their own solution from scratch? What considerations led to their approach? Are there any obvious implications to our next steps at the 4A's?
+
+- What were some of the more significant performance considerations?
+
+- Chick and I have each built several smaller WordPress sites, and are familiar with the nuts and bolts. I'd like to get a better sense of what the overall experience is like, and how it may differ, in a site the size of KFF's -- specifically for both content editors and site administrators. Essentially, what does it look like under the hood? How can the admin dashboard be modified to facilitate editorial access when a site contains thousands of pages? 
+
+- How is KFF handling document management? Is it done within WordPress, or rather via an interface with some other asset management system?
+
+
+
+
+
+
+
+
 ## October 29, 2014 - 3:07 PM
 ###Taxonomy Update
 - The importance of taxonomy

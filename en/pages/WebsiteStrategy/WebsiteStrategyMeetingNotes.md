@@ -1,3 +1,37 @@
+### November 21, 2014 - 9:35 AM ###
+
+- VML
+	- Joe Baca not available - Leads functional etc.
+	- Personas - discussions
+	- Looping in Alison
+	- Personas - only taken as we 
+	- Features and functionality
+		- spreadsheet
+		- BSA - Joe Baca
+- Tuesday meeting
+	- Content strategy
+		- Content and social
+	- Joe Baca
+	- Andy 
+	- 4A's led meeting?
+		-  opening the discussion 
+		-  we want the information for what we want to build
+	-  Bring our proposed list of personas?
+	-  Content strategy as a starting point
+	- Balance is listening
+		- Stuff that might not have been captured
+		- Late breaking ideas
+	- Record the meeting.
+- Strategy presentation?
+- Andy - What will be the moveable parts?
+- Andy - get past the discovery time frame in December time frame
+- **The initial list of f and f is important going through that the excersise**
+	- need to see if there is anything on the list that won't be supported
+
+
+
+
+
 ### November 6, 2014 - 11:01 AM
 ## 
 

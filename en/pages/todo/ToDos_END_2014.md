@@ -1,26 +1,37 @@
 #TODO - END 2014
 
-#03 nov: 
-- - mlebowitz  @ @done
+#Monday Nov17:
+	- Releases
+	- Thank yous
+	- Presentations
+	- OpEd Summaries
+	- Productivity Plan
+		- ToDo tasks
+		- Projects
+		- Tags 
+			- @ tags versus # tags
+		- Structure
+		- comms
+			- email integratins
+			- gathering contacts
+			- managing threads/conversations vs managing tasks
+		- mode switching in a common tongue - MD!! @md
+	- Follow up thoughts
+		- Jeffersonina dinners
+		- Activity night - networking
+			- How to guarantee an audience - @pr
+			- How to guarantee the press - @pr
+	- Followups
+		- TOm F @done
+		- Jeff @done
+		- Ben M 
+		- Sheldon
+		- Alan S
+		- 
+	
 #Monday Nov 10:
-	- Email Copy for Monday
-	- Questions for video
-	- List of committee members for Tuesday?wednesday/Thursday dinners
-	- coordinate opening and closing and MCs @lizr 
 	- Att bill 
-	- hotel @done
-	- Train!! @done
-	- Statements for dead air, summaries of the conference
-		- Press?
-	- CT video -signup page
-		- OUtline of questions for 1 minute videos
-	- Signup for dinners
-		- Tim L 
-		- Find restaurants
-		- Signup form
-		- Wednesday night
-		- Jeffersonian dinner
-		- get recos by Monday night
+
 	- Assignments
 		- Send out @done
 		- Review
@@ -47,6 +58,9 @@
 - audit issues and pubs
 - categories
 - managing an agency, managing creative work, managing client relationsips @strategic_concepts 
+- Review sheldon's talk
+	- move towards the system of ad technology management
+	- 
 
  
 #CreateTech Logistics:

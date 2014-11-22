@@ -1,4 +1,4 @@
-#### CreateTech 2014 topic development ideas
+# CreateTech 2014 topic development ideas
 
 1. Data
 	* More data allows us to create a fuller picture of personal contexts for services and messaging. What are the best ad experience designs for the world data science is now giving us?
