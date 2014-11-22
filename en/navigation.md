@@ -6,10 +6,10 @@
 # FoxpathWiki
 
 
-<!--
+
   -- Default theme
   -- (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)
-  -->
+
 
 [gimmick:theme](spacelab)
 
@@ -42,9 +42,6 @@
   * [Council conference call](BostonCouncilCall22Sept.md)
   * [16 September](pages/CT_Update_16Sept2014.md)
   
-[
-[Menu Item 3](pages/item3.md)
-
 
 
 <!--
@@ -65,8 +62,7 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-<!--
+
 [gimmick:themechooser](Choose theme)
--->
 
 
