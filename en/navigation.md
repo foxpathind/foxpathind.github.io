@@ -5,13 +5,11 @@
 
 # FoxpathWiki
 
+<!-- set a default theme -->
+[gimmick:theme (inverse: false)](bootstrap)
 
-
-  -- Default theme
-  -- (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)
-
-
-[gimmick:theme](spacelab)
+<!-- show a theme chooser in the menu bar -->
+[gimmick:ThemeChooser](Change theme)
 
 
 <!--
