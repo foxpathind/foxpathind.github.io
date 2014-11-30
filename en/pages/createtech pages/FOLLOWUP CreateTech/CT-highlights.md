@@ -17,24 +17,25 @@
 @experience_design
 @interpersonal
 
-#10 Takeawys - Alison Cut
-1.	Advanced technologies centered and AROUND? big data and analytics are allowing us to see a higher resolution picture of every day life. A holistic context awareness is the big opportunity
-2.	Embrace the complexity and learn to manage it CAN BE COMBINED WITH NO. 1? 
-3.	According by Cynthia - To communicate appropriately in a world of people and thinking things we will need to include the affective landscape of life relationships beyond mass media communIcations.
-4.	**Soon living with technology will move off the screen into the entire built environment. EXAMPLES? LINK?**
-5.	**Technology will allow us to engineer more personable tools and spaces. Brands will need to engage in even more trustworthy and contextually appropriate ways**
-6.	**Personable things will engage our emotions even more deeply than mere storytelling. EXAMPLES? **
-7.	**And we make better decisions when our emotions are engaged. COMBINE INTO NO. 6?** 
-8.	When embracing doing the development themselves, agencies are learning to deal with the entrei experience design project life cycle. Moving from deliverables to continuous delivery methodologies
-9.	David Shrier MIT Connection Science confirmed Deutsch LA's insights that face-to-face interaction develop deeper team bonds.
-10.	Fernanda Viegas of Google showed us that how powerful it is to see the unseen with a data driven visualization of wind flows that sailors, firefighters and pilots found helpful
-11.	UnderArmour and Mindshare showed us new wearable technology that will make collected personal data as easy as putting on a t-shirt.
-12.	Nigel Jacob from Boston’s New Urban Mechanics reminds us that civic innovation whlps government build trust by surprising and delighting citizens as much as managing the budget. 
-13.	**Kati London of Microsoft Research helped us see that a world of ambient intelligence, sensors plus analytics will surface new modes of interaction, can simplify and reduce the noise of complex environments to help us spend time on what matters to us.**
-14.	**Jason Alan Snyder from Momentum Worldwide led a panel that about the what will drive future success of wearable tech and how brands and agencies can find appropriate communication opportunities in personal body networks.**
+#10 Takeaways - Alison Cut
+
+2. **Dr. Cynthia Braezeal from the MIT Media Lab designed a robot to become part of the family in the connected home. As things become intelligent we'll want to communicate in many more ways than simply through screens including with our emotions.Technology will allow us to engineer more personable tools and spaces. Brands will need to engage in even more trustworthy and contextually appropriate ways. http://www.myjibo.com/**
+9.	**David Shrier from MIT's Center for Connection Science and Engineering told us about thier "Living Labs" where innovations in changing human behavior are deployed in the real world with real people. The "Living Labs" go into real work places to look for insights into people's behavior not their beliefs to help us design our environments for effective and fulfilling interactions. Sandy Pentland the Center's founder is interviewed here: http://edge.org/conversation/reinventing-society-in-the-wake-of-big-data**
+10.	**Fernanda Viegas of Google showed us that how powerful it is to see the unseen with a data driven visualization of wind flows that sailors, firefighters and pilots found helpful. http://vimeo.com/48625144**
+11.	**UnderArmour and Mindshare showed us new wearable technology that will make collected personal data as easy as putting on a t-shirt. The  http://about.mapmyfitness.com/2014/11/wearables-expanding-beyond-steps-with-sweat-heartbeat-data/**
+12.	**Nigel Jacob from Boston’s New Urban Mechanics shows marketers how civic innovation and using technology to activate the urban environment helps government build trust by surprising and delighting citizens as much as managing the budget. http://www.newurbanmechanics.org/**
+13.	**[Kati London of Microsoft Research](http://blogs.technet.com/b/inside_microsoft_research/archive/2013/05/07/kati-london-of-fuse-playful-and-surprising.aspx) helped us see that a world of ambient intelligence, sensors plus analytics will surface new modes of interaction, can simplify and reduce the noise of complex environments to help us spend time on what matters to us.**
+14.	**[Jason Alan Snyder](http://evilrobot.com/) from Momentum Worldwide led a panel that about the what will drive future success of wearable tech and how brands and agencies can find appropriate communication opportunities in what another CreateTech speaker, [Interface Foundry's](http://interfacefoundry.com/) Rachel Law highlighted as "[body area networks](https://en.wikipedia.org/wiki/Body_area_network)".**
 15.	**Sheldon Monteiro, SpientNitro’s Chief Technology Officer offered the vision of a brand’s story system and the creative technologist’s role leading the design, build and maintenance of the continuous delivery of brand experience.**
 16.	**Conor Brady Chief Creative Officer of Critical Mass showed us the framework for interaction design: working with the visible, the content and the environment and the invisible, data and code, that produced their stunning work for the U.N. on helping people understand the still too-present dangers of land mines in many parts of the world. [Mashable article on "sweeper"](http://mashable.com/2014/04/04/ibeacons-land-mines-simulation/)**
-17.	**David Schwarz from Hush reminded us that we are just at the beginning of our understanding of the expressive possibilities that the internet of connected spaces, people and things makes possible.**
+17.	**[David Schwarz from Hush](http://portraitofacreative.com/david_schwarz/) reminded us that we are just at the beginning of our understanding of the expressive possibilities that the internet of connected spaces, people and things makes possible.**
+18.	**Advanced technologies centered around big data and analytics are allowing us to see a higher resolution picture of every day life. A holistic context awareness is the big opportunity. Embrace the complexity and learn to live with and in it!** 
+19.	Soon living with technology will move off the screen into the entire built environment. EXAMPLES? LINK?
+5.	Technology will allow us to engineer more personable tools and spaces. Brands will need to engage in even more trustworthy and contextually appropriate ways
+6.	**Personable things will engage our emotions even more deeply than mere storytelling. EXAMPLES? **
+7.	And we make better decisions when our emotions are engaged. COMBINE INTO NO. 6?** 
+8.	When embracing doing the development themselves, agencies are learning to deal with the entrei experience design project life cycle. Moving from deliverables to continuous delivery methodologies
+
 
 
 

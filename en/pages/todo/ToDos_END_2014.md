@@ -1,5 +1,83 @@
+- Nav is hierarchical. Terms form a network. Wiki words 
 #TODO - END 2014
 
+
+# Meetings/Calls:
+	- Ray Velez @done
+		- Experience design in advertising - lead a conversation
+		- data and context, experience design
+	- Tom Goodwin
+		- Future of advertising
+	- Isabel
+		- Brownstein Ricoh billboard @emailed
+			- Artist rep'ping
+		- Dec. 9 change??
+
+
+#LifeBox personal infrastructure:
+	- Zapier and Email to slack
+	- model up!
+
+
+#Monday Dec. 1:
+	- CES panel
+		- 
+	- CraeteTech meeting NYC Feb
+	- May in Berlin/Paris
+	- Website update
+		- Last board meeting
+		- CMS evaluation
+			- WordPress
+			- Benel netFourm integration
+		- Interviews  & Survey
+		- Strategy outline
+		- Content Strategy
+	- Next steps
+		- Features and functions
+		- Design
+		- UX - wireframes
+	- Strategic implications, staffing and website design and build
+		- CMS choice partially chosen for editors
+		- Content creation editorial process influence what gets built
+- - Craig Elmileah
+	
+#monday nov24:
+	- Top 10 !!! @done
+	- Finish highlights !!!
+	- Appnation panel - 
+	- Media, hardware platform, creative
+	- Video editing
+	- Wiki scripts
+		- Folder of files to .md and place up a level
+		-  Update nav.md
+		- List of files to make cross links 
+		- Network of files
+	- Video
+		- Website-
+			- We've hired VML - get board outline
+			- Finishing up the strategy phase
+				- Some highlights
+					- More friendly interface for our communications department who will be looking for highlighting news from our member agencies
+					- Easier page layout for custom usage
+					- Search by Categories  to provide easier access to 4As content and documents
+					- Increased focus on the individual profile making visits to the 4As more valuable for members
+		- CreateTech 2014
+			- Best so far
+			- Boston council pitched and supported our moving CreateTech this year to Boston
+			- The creative technologies committee, which now has 25 members from agencies all over the country, gets together in early part fo the year to discuss an over all theme
+			- After the dramatically increased coverage of wearables and new consumer internet of things products we decided to discuss the emerging connected world
+			- Createtech is designed a s different kind of technology conference. We want a place for the professional technologists and manager with advanced topics, that also push into the speculative and the future, especially as it applies to the creative community
+			- #####“Pervasive intelligence”: people, places, things
+				- Dr. Cynthia Brazeal from MIT Media Lab who has invented a home robot name Jibo
+				- Rudina Seseri from leads the media and technology practice at investment firm Fairhaven Capital 
+				- Abby Fichtner, the hack in residence and the Hrvard Innovation Lab
+			- #####Applications: knowledge, skills, working together
+				- We heard from DeutschLA and Volkswagen on the important task of creating a car site site with many stakeholders.
+				- A great story from ATT ManMadeMusic and Obscura Digital on using the entire Dallas Football stadium to dramtically enhance fan experience for tens of thousands
+			- #####Our stories: client, agencies, consumers, ourselves
+					- Fake Love, Hush and Obsura digital all artists who founded digital design agencies dedicated to experience design and have created some stunning work for brands.
+			- Imagine the emerging world of connected people, places and things with thought-provoking technologists, artists, engineers, scientists, designers and programmers, managers and communicators.
+			- There'll be sessions on civic interaction design, advanced agency creative technology management, dramatic brand experiences, biohacking and connection science, and much, much more.
 #Monday Nov17:
 	- Releases
 	- Thank yous
@@ -29,25 +107,34 @@
 		- Alan S
 		- 
 	
-#Monday Nov 10:
-	- Att bill 
+#Projects:
+	- Status monitoring
+	- Taxonomy
+		- Content inventory
 
-	- Assignments
-		- Send out @done
-		- Review
-		- Google Doc with Bios/Session info
+	- Strategy Document
+		- Overall goals
+		- map to functions
+		- create schedule
+	- Improving netForum
+		- Using netForum seminars
+			- Weekly 15 minutes
+			- Videos
+		- Project List
+		- Projects
+			- What's required for a successful netForum project
+	- CreateTech follow ups
+		- 10 things
+		- Videos
+		- Presentations
+		- 
 	
 
-	
 # Dev Research:
 - Check out elasticsearch.com some time. ELK is elasticsearch + logstash + kibana.
 - RabitMQ
 
-# 22Squared:
-- discussion of IT - generally how we have crafted our infrastructure - and for discussion
-	- any thoughts how other mid size shops are managing IT, tools, platforms
-	- discussion of storage management
-	- role of IT in client delivery
+
 
 #Home:
 	- Coffee order: http://shop.lacolombe.com/products/ethiopia-ardi
@@ -60,49 +147,17 @@
 - managing an agency, managing creative work, managing client relationsips @strategic_concepts 
 - Review sheldon's talk
 	- move towards the system of ad technology management
+- artists and artist run agencies
+	- Fake love
+	- Obscura Disgital
+	- Sovrn State
+	- Meta Agency
 	- 
 
  
-#CreateTech Logistics:
-	- MC wrangling
-	- MC Form ?
-	
-		- Who wrangles press? rose.levy @done
-	- 
 
 
 	
-
-#CreateTech Follow ups:
-	- Chris Reigl @emailed @done
-	- Joe Corr
-	- Trevor O'Brien @emailed @done
-	- Nigel @emailed 617-635-3518 @called @emailed
-	- Ben Malbon @emailed
-	- KipV?
-	- Mike Baker panel
-		- GET NAMES AND EMAIL ADDRESSES
-		- Barbarian Group? @done
-		- Big spaceship?@done
-		- Huge! @done
-	- List all speakers - https://docs.google.com/a/aaaa.org/spreadsheet/ccc? key=0AolsLVLuBgcodGVKMEpiRUQ5X0FSY2dkQ1hpTC1vd0E&usp=drive_web#gid=4 @done
-	- Winston @done
-	- 
-# Education/Training:
-	- Mark Avnet lunch invite @done
-	
-# Meetings/Calls:
-	- Ray Velez @done
-		- Experience design in advertising - lead a conversation
-		- data and context, experience design
-	- Tom Goodwin
-		- Future of advertising
-	- Isabel
-		- Arnold after party?
-		- Brownstein Ricoh billboard 
-			- Artist rep'ping
-		- Dec. 9 change??
-
 
 #Dates
 |Name	| Session Title	| Date range	|???	|  

@@ -1,4 +1,116 @@
+
+### November 25, 2014 - 11:10 AM
+
+- Alison, Joe, Marci
+- Andy, Charles, Tarini, UX
+
+- Content Strategy
+	- Recommendations
+		- need original thinking
+		- Jan 15th
+		- communication
+		- editorial calendar
+		- more conversation about
+		- i'm mapping things out
+		- editorial policy
+	- member profiles - user gen
+	- live streaming
+	- events
+		- micro sites
+		- newsletter
+	- infographics
+	- javascript
+	- lets investigate
+
+- personas
+	- prospects/non-members
+		- awareness
+		- evaluation
+		- activation
+
+	- members
+		- engagement
+		- loyalty
+		- evangelism/ socializing/ advocates
+
+	- th4e industry - professionals outside
+		- clients
+		- procurement 
+		- search consultants
+		- students
+		- press/media
+	
+#### Content thoughts
+	- members only content
+	- what is findable - abstracts
+		- gate 	
+
+#### Personas
+	- Executive/decision makers
+		- large agency
+		- small agency
+	- Student/job seeker
+		- doubles as millenials
+	- Planner/Media Planner
+		- doubles as millenials
+	- Creative Directors
+		- double as committee
+	- HR
+		- doubles as relationship managers
+	- Executive
+	- Account manager
+		- millenial, active user, online 
+	
+	- give agencies a voice
+		- ad of the day
+		- quick
+		- CMOs audience
+	- agency service the 
+
+#### Search consultants	
+	- accounts in review
+	- agencies profiles
+		- news of agencies, 
+		- the state of the agency
+		- rss feeds
+		- AdAge Lookbook
+	- help agencies get in front of search consultants
+	- help agencies get noticed
+	- smaller agencies also looking here
+		- can't afford a search consultant
+- Job seekers
+
+#### Audiennce goals
+	- Digital savviness
+		- engaged
+		- platforms
+		- adopters
+		- time of day
+
+
+#### Journey document
+- what would be concrete represenatation
+- 		
+		
+	
+		
+
+
+### November 24, 2014  - 4:15 PM
+
+- Department and depth of ownership
+	- Membership
+	-Training
+	- Magemt
+	- Research
+- Editor in chief - but
+	- editor has a role
+	- content structured for re-purporsing
+	
+
+
 ### November 21, 2014 - 9:35 AM ###
+
 
 - VML
 	- Joe Baca not available - Leads functional etc.
