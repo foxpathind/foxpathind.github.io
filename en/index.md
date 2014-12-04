@@ -1,8 +1,14 @@
 # Welcome to FoxpathIND Wiki;-)
 
 
-## Chick Foxgrover's workspace
-Make a test comment here
+## Pandoc usage
+
+```
+pandoc -f docx -t markdown -o anotherfile.md DecemberTasks.docx
+
+Word should have level styles to work best.
+dash,line will go through to bullet list
+
 
 
 ## Add the page listing here
