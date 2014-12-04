@@ -3,19 +3,19 @@
 
 ## Pandoc usage
 
-```
-pandoc -f docx -t markdown -o anotherfile.md DecemberTasks.docx
+
+    pandoc -f docx -t markdown -o anotherfile.md DecemberTasks.docx
 
 Word should have level styles to work best.
 dash,line will go through to bullet list
-```
+
 
 
 ## Add the page listing here
 
+```
 - Update the page list: 
 
-```
 /Dropbox/foxpathind.github.io/en/pages$ls -R >PagesList.md
 /Dropbox/foxpathind.github.io/en/pages
 
@@ -29,10 +29,10 @@ sed -E  -n 's/(^.*[0-9].*$)/[\1](\1)/gp' <toc.md >tocnew.md
 sed -E  -n 's/(^.*.*$)/[\1](\1)/gp' <toc.md >tocnew.md
 
 ls -d */ >folderslist.md
-
 ```
 
-UNIX Shell
+## UNIX Shell
+
 Works with: Bourne Again SHell
 
 The "find" command gives a one-line solution for simple patterns:
@@ -42,7 +42,6 @@ find . -name '*.txt' -type f
 "find" can also be used to find files matching more complex patterns as illustrated in the section on Unix Pipes below.
 
 Using "bash" version 4 or later, you can use "globstar" or "dotglob", depending on whether you want hidden directories to be searched:
-
 
 http://rosettacode.org/wiki/Category:UNIX_Shell
 
