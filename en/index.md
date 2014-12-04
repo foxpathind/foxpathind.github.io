@@ -17,21 +17,19 @@ dash,line will go through to bullet list
 
 ```
 /Dropbox/foxpathind.github.io/en/pages$ls -R >PagesList.md
-
-
-**/Dropbox/foxpathind.github.io/en/pages**
+/Dropbox/foxpathind.github.io/en/pages
 
 cd ~/Documents/conversion-folder/Draft
 ls *.md > markdownfilelist.md
 sed -E -n 's/(^.*.*$)/ * [\1](\1)/gpw pages.md' markdownfilelist.md 
 rm markdownfilelist.md
 
-
 sed -E  -n 's/(^.*[0-9].*$)/[\1](\1)/gp' <toc.md >tocnew.md
 
 sed -E  -n 's/(^.*.*$)/[\1](\1)/gp' <toc.md >tocnew.md
 
 ls -d */ >folderslist.md
+
 ```
 
 UNIX Shell
