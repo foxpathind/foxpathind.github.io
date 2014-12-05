@@ -1,0 +1,1440 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE outline PUBLIC "-//omnigroup.com//DTD OUTLINE 3.0//EN" "http://www.omnigroup.com/namespace/OmniOutliner/xmloutline-v3.dtd">
+<outline xmlns="http://www.omnigroup.com/namespace/OmniOutliner/v3">
+  <style-attribute-registry>
+    <style-attribute version="0" key="font-family" group="font" name="family" class="string">Helvetica</style-attribute>
+    <style-attribute version="1" key="font-fill" group="font" name="fill color" class="color">
+      <color w="0"/>
+    </style-attribute>
+    <style-attribute version="0" key="font-size" group="font" name="size" class="number" integral="0" min="1" max="65536">12</style-attribute>
+    <style-attribute version="0" key="font-weight" group="font" name="weight" class="number" integral="1" min="1" max="14">5</style-attribute>
+    <style-attribute version="0" key="paragraph-alignment" group="paragraph" name="alignment" class="enum">
+      <enum-name-table default-value="4">
+        <enum-name-table-element value="0" name="left"/>
+        <enum-name-table-element value="1" name="right"/>
+        <enum-name-table-element value="2" name="center"/>
+        <enum-name-table-element value="3" name="justified"/>
+        <enum-name-table-element value="4" name="natural"/>
+      </enum-name-table>
+    </style-attribute>
+    <style-attribute version="0" key="paragraph-base-writing-direction" group="paragraph" name="writing direction" class="enum">
+      <enum-name-table default-value="-1">
+        <enum-name-table-element value="-1" name="natural"/>
+        <enum-name-table-element value="0" name="left-to-right"/>
+        <enum-name-table-element value="1" name="right-to-left"/>
+      </enum-name-table>
+    </style-attribute>
+    <style-attribute version="0" key="text-background-color" group="text" name="background color" class="color">
+      <color w="0" a="0"/>
+    </style-attribute>
+  </style-attribute-registry>
+  <named-styles>
+    <named-style id="pEuyXj84FqX" name="Emphasis" display-order="0">
+      <style>
+        <value key="font-fill">
+          <color r="0.345098" g="0.431373" b="0.458824"/>
+        </value>
+        <value key="font-weight">9</value>
+      </style>
+    </named-style>
+    <named-style id="oNjvfB6_IzG" name="Highlight" display-order="1">
+      <style>
+        <value key="text-background-color">
+          <color r="0.933333" g="0.909804" b="0.835294"/>
+        </value>
+      </style>
+    </named-style>
+    <named-style id="jmMHkfmYZ1M" name="Yellow" display-order="2">
+      <style>
+        <value key="font-fill">
+          <color r="0.709804" g="0.537255" b="0"/>
+        </value>
+      </style>
+    </named-style>
+    <named-style id="a0st9oz2FO1" name="Orange" display-order="3">
+      <style>
+        <value key="font-fill">
+          <color r="0.796078" g="0.294118" b="0.086275"/>
+        </value>
+      </style>
+    </named-style>
+    <named-style id="n7Lfd4MM7uE" name="Red" display-order="4">
+      <style>
+        <value key="font-fill">
+          <color r="0.862745" g="0.196078" b="0.184314"/>
+        </value>
+      </style>
+    </named-style>
+    <named-style id="aeYpF7M08yK" name="Magenta" display-order="5">
+      <style>
+        <value key="font-fill">
+          <color r="0.827451" g="0.211765" b="0.509804"/>
+        </value>
+      </style>
+    </named-style>
+    <named-style id="fyki-wDjq0-" name="Violet" display-order="6">
+      <style>
+        <value key="font-fill">
+          <color r="0.423529" g="0.443137" b="0.768627"/>
+        </value>
+      </style>
+    </named-style>
+    <named-style id="hAkuUjwYLH4" name="Blue" display-order="7">
+      <style>
+        <value key="font-fill">
+          <color r="0.14902" g="0.545098" b="0.823529"/>
+        </value>
+      </style>
+    </named-style>
+    <named-style id="eF5w5ahSfcU" name="Cyan" display-order="8">
+      <style>
+        <value key="font-fill">
+          <color r="0.164706" g="0.631373" b="0.596078"/>
+        </value>
+      </style>
+    </named-style>
+    <named-style id="kH8JuFLRG40" name="Green" display-order="9">
+      <style>
+        <value key="font-fill">
+          <color r="0.521569" g="0.6" b="0"/>
+        </value>
+      </style>
+    </named-style>
+  </named-styles>
+  <settings>
+    <base-style>
+      <style>
+        <value key="font-family">Avenir</value>
+        <value key="font-fill">
+          <color r="0.396078" g="0.482353" b="0.513725"/>
+        </value>
+        <value key="font-size">14</value>
+        <value key="font-weight">6</value>
+        <value key="paragraph-base-writing-direction">left-to-right</value>
+        <value key="text-background-color">
+          <color r="0.992157" g="0.964706" b="0.890196"/>
+        </value>
+      </style>
+    </base-style>
+    <auto-generate-level-styles>no</auto-generate-level-styles>
+  </settings>
+  <editor content-size="{990, 685}" vertical-scrollbar-visible-width="15" status-visible="no">
+    <note-split-view height="132"/>
+    <selected-rows ids="task:2"/>
+    <selected-columns ids=":2"/>
+    <selected-characters range="{8, 0}"/>
+  </editor>
+  <columns>
+    <column id=":0" type="text" width="18" minimum-width="18" maximum-width="18" text-export-width="40" is-note-column="yes">
+      <style>
+        <value key="font-fill">
+          <color r="0.576471" g="0.631373" b="0.631373"/>
+        </value>
+      </style>
+      <title>
+        <text>
+          <p/>
+        </text>
+      </title>
+    </column>
+    <column id=":1" type="text" width="100" minimum-width="13" maximum-width="1000000" text-export-width="40">
+      <title>
+        <text>
+          <p>
+            <run>
+              <lit>Unique ID</lit>
+            </run>
+          </p>
+        </text>
+      </title>
+    </column>
+    <column id=":2" type="text" width="429" minimum-width="13" maximum-width="1000000" text-export-width="40" is-outline-column="yes">
+      <title>
+        <text>
+          <p>
+            <run>
+              <lit>Task</lit>
+            </run>
+          </p>
+        </text>
+      </title>
+    </column>
+    <column id=":3" type="date" width="100" minimum-width="13" maximum-width="1000000" text-export-width="40">
+      <title>
+        <text>
+          <p>
+            <run>
+              <lit>Start</lit>
+            </run>
+          </p>
+        </text>
+      </title>
+      <formatter type="date" allow-natural-language="yes" locale="en_US" calendar="gregorian" tz="America/New_York" icu-format="M&apos;/&apos;d&apos;/&apos;yy">%1m/%e/%y</formatter>
+    </column>
+    <column id=":4" type="date" width="100" minimum-width="13" maximum-width="1000000" text-export-width="40">
+      <title>
+        <text>
+          <p>
+            <run>
+              <lit>End</lit>
+            </run>
+          </p>
+        </text>
+      </title>
+      <formatter type="date" allow-natural-language="yes" locale="en_US" calendar="gregorian" tz="America/New_York" icu-format="M&apos;/&apos;d&apos;/&apos;yy">%1m/%e/%y</formatter>
+    </column>
+    <column id=":5" type="duration" width="100" minimum-width="13" maximum-width="1000000" text-export-width="40">
+      <title>
+        <text>
+          <p>
+            <run>
+              <lit>Duration</lit>
+            </run>
+          </p>
+        </text>
+      </title>
+      <formatter type="duration" hours-per-day="8" hours-per-week="40" hours-per-month="160"/>
+    </column>
+    <column id=":6" type="duration" width="100" minimum-width="13" maximum-width="1000000" text-export-width="40">
+      <title>
+        <text>
+          <p>
+            <run>
+              <lit>Effort</lit>
+            </run>
+          </p>
+        </text>
+      </title>
+      <formatter type="duration" hours-per-day="8" hours-per-week="40" hours-per-month="160"/>
+    </column>
+    <column id=":7" type="number" width="100" minimum-width="13" maximum-width="1000000" text-export-width="40">
+      <style>
+        <value key="paragraph-alignment">right</value>
+      </style>
+      <title>
+        <text>
+          <p>
+            <run>
+              <lit>Completed</lit>
+            </run>
+          </p>
+        </text>
+      </title>
+      <formatter type="number">#,#00%;0;-#,#00%</formatter>
+    </column>
+    <column id=":8" type="text" width="100" minimum-width="13" maximum-width="1000000" text-export-width="40">
+      <title>
+        <text>
+          <p>
+            <run>
+              <lit>Assigned</lit>
+            </run>
+          </p>
+        </text>
+      </title>
+    </column>
+    <column id=":9" type="date" width="100" minimum-width="13" maximum-width="1000000" text-export-width="40">
+      <title>
+        <text>
+          <p>
+            <run>
+              <lit>Planned Start</lit>
+            </run>
+          </p>
+        </text>
+      </title>
+      <formatter type="date" allow-natural-language="yes" locale="en_US" calendar="gregorian" tz="America/New_York" icu-format="M&apos;/&apos;d&apos;/&apos;yy">%1m/%e/%y</formatter>
+    </column>
+    <column id=":10" type="duration" width="100" minimum-width="13" maximum-width="1000000" text-export-width="40">
+      <title>
+        <text>
+          <p>
+            <run>
+              <lit>Start Variance</lit>
+            </run>
+          </p>
+        </text>
+      </title>
+      <formatter type="duration" hours-per-day="8" hours-per-week="40" hours-per-month="160"/>
+    </column>
+    <column id=":11" type="date" width="100" minimum-width="13" maximum-width="1000000" text-export-width="40">
+      <title>
+        <text>
+          <p>
+            <run>
+              <lit>Constraint Start</lit>
+            </run>
+          </p>
+        </text>
+      </title>
+      <formatter type="date" allow-natural-language="yes" locale="en_US" calendar="gregorian" tz="America/New_York" icu-format="M&apos;/&apos;d&apos;/&apos;yy">%1m/%e/%y</formatter>
+    </column>
+    <column id=":12" type="date" width="100" minimum-width="13" maximum-width="1000000" text-export-width="40">
+      <title>
+        <text>
+          <p>
+            <run>
+              <lit>Planned End</lit>
+            </run>
+          </p>
+        </text>
+      </title>
+      <formatter type="date" allow-natural-language="yes" locale="en_US" calendar="gregorian" tz="America/New_York" icu-format="M&apos;/&apos;d&apos;/&apos;yy">%1m/%e/%y</formatter>
+    </column>
+    <column id=":13" type="duration" width="100" minimum-width="13" maximum-width="1000000" text-export-width="40">
+      <title>
+        <text>
+          <p>
+            <run>
+              <lit>End Variance</lit>
+            </run>
+          </p>
+        </text>
+      </title>
+      <formatter type="duration" hours-per-day="8" hours-per-week="40" hours-per-month="160"/>
+    </column>
+    <column id=":14" type="date" width="100" minimum-width="13" maximum-width="1000000" text-export-width="40">
+      <title>
+        <text>
+          <p>
+            <run>
+              <lit>Constraint End</lit>
+            </run>
+          </p>
+        </text>
+      </title>
+      <formatter type="date" allow-natural-language="yes" locale="en_US" calendar="gregorian" tz="America/New_York" icu-format="M&apos;/&apos;d&apos;/&apos;yy">%1m/%e/%y</formatter>
+    </column>
+    <column id=":15" type="number" width="100" minimum-width="13" maximum-width="1000000" text-export-width="40">
+      <style>
+        <value key="paragraph-alignment">right</value>
+      </style>
+      <title>
+        <text>
+          <p>
+            <run>
+              <lit>Task Cost</lit>
+            </run>
+          </p>
+        </text>
+      </title>
+      <formatter type="number">¤#,##0.00;$0.00;¤#,##0.00</formatter>
+    </column>
+    <column id=":16" type="text" width="100" minimum-width="13" maximum-width="1000000" text-export-width="40">
+      <title>
+        <text>
+          <p>
+            <run>
+              <lit>Dependencies</lit>
+            </run>
+          </p>
+        </text>
+      </title>
+    </column>
+    <column id=":17" type="number" width="100" minimum-width="13" maximum-width="1000000" text-export-width="40">
+      <style>
+        <value key="paragraph-alignment">right</value>
+      </style>
+      <title>
+        <text>
+          <p>
+            <run>
+              <lit>Priority</lit>
+            </run>
+          </p>
+        </text>
+      </title>
+      <formatter type="number">#;0;#</formatter>
+    </column>
+    <column id=":18" type="text" width="100" minimum-width="13" maximum-width="1000000" text-export-width="40">
+      <title>
+        <text>
+          <p>
+            <run>
+              <lit>Resources Cost</lit>
+            </run>
+          </p>
+        </text>
+      </title>
+    </column>
+    <column id=":19" type="text" width="100" minimum-width="13" maximum-width="1000000" text-export-width="40">
+      <title>
+        <text>
+          <p>
+            <run>
+              <lit>Total Cost</lit>
+            </run>
+          </p>
+        </text>
+      </title>
+    </column>
+  </columns>
+  <root>
+    <style>
+      <value key="font-weight">7</value>
+    </style>
+    <style>
+      <inherited-style name="Yellow" idref="jmMHkfmYZ1M"/>
+      <value key="font-size">28</value>
+      <value key="font-weight">3</value>
+    </style>
+    <style>
+      <inherited-style name="Yellow" idref="jmMHkfmYZ1M"/>
+      <value key="font-size">20</value>
+      <value key="font-weight">5</value>
+    </style>
+    <style>
+      <inherited-style name="Yellow" idref="jmMHkfmYZ1M"/>
+    </style>
+    <item id="task:1" expanded="yes">
+      <values>
+        <text>
+          <p>
+            <run>
+              <lit>1</lit>
+            </run>
+          </p>
+        </text>
+        <text>
+          <p>
+            <run>
+              <lit>Website project</lit>
+            </run>
+          </p>
+        </text>
+        <date>2014-12-04 08:00:00 -0500</date>
+        <date>2015-01-28 09:15:00 -0500</date>
+        <duration>313.25</duration>
+        <duration>64</duration>
+        <number>0</number>
+        <null/>
+        <null/>
+        <null/>
+        <null/>
+        <null/>
+        <null/>
+        <null/>
+        <number>0</number>
+        <null/>
+        <null/>
+        <text>
+          <p>
+            <run>
+              <lit>0</lit>
+            </run>
+          </p>
+        </text>
+        <text>
+          <p>
+            <run>
+              <lit>0</lit>
+            </run>
+          </p>
+        </text>
+      </values>
+      <children>
+        <item id="task:2" expanded="yes">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>2</lit>
+                </run>
+              </p>
+            </text>
+            <text>
+              <p>
+                <run>
+                  <lit>Taxonomy</lit>
+                </run>
+              </p>
+            </text>
+            <date>2014-12-04 08:00:00 -0500</date>
+            <date>2014-12-04 17:00:00 -0500</date>
+            <duration>8</duration>
+            <duration>16</duration>
+            <number>0</number>
+            <null/>
+            <null/>
+            <null/>
+            <null/>
+            <null/>
+            <null/>
+            <null/>
+            <number>0</number>
+            <null/>
+            <null/>
+            <text>
+              <p>
+                <run>
+                  <lit>0</lit>
+                </run>
+              </p>
+            </text>
+            <text>
+              <p>
+                <run>
+                  <lit>0</lit>
+                </run>
+              </p>
+            </text>
+          </values>
+          <children>
+            <item id="task:7">
+              <values>
+                <text>
+                  <p>
+                    <run>
+                      <lit>7</lit>
+                    </run>
+                  </p>
+                </text>
+                <text>
+                  <p>
+                    <run>
+                      <lit>Sharepoint project</lit>
+                    </run>
+                  </p>
+                </text>
+                <date>2014-12-04 08:00:00 -0500</date>
+                <date>2014-12-04 17:00:00 -0500</date>
+                <duration>8</duration>
+                <duration>8</duration>
+                <number>0</number>
+                <null/>
+                <null/>
+                <null/>
+                <null/>
+                <null/>
+                <null/>
+                <null/>
+                <number>0</number>
+                <null/>
+                <number>0</number>
+                <text>
+                  <p>
+                    <run>
+                      <lit>0</lit>
+                    </run>
+                  </p>
+                </text>
+                <text>
+                  <p>
+                    <run>
+                      <lit>0</lit>
+                    </run>
+                  </p>
+                </text>
+              </values>
+            </item>
+            <item id="task:16">
+              <values>
+                <text>
+                  <p>
+                    <run>
+                      <lit>16</lit>
+                    </run>
+                  </p>
+                </text>
+                <text>
+                  <p>
+                    <run>
+                      <lit>Terms in Filemaker</lit>
+                    </run>
+                  </p>
+                </text>
+                <date>2014-12-04 08:00:00 -0500</date>
+                <date>2014-12-04 17:00:00 -0500</date>
+                <duration>8</duration>
+                <duration>8</duration>
+                <number>0</number>
+                <null/>
+                <null/>
+                <null/>
+                <null/>
+                <null/>
+                <null/>
+                <null/>
+                <number>0</number>
+                <null/>
+                <number>0</number>
+                <text>
+                  <p>
+                    <run>
+                      <lit>0</lit>
+                    </run>
+                  </p>
+                </text>
+                <text>
+                  <p>
+                    <run>
+                      <lit>0</lit>
+                    </run>
+                  </p>
+                </text>
+              </values>
+            </item>
+          </children>
+        </item>
+        <item id="task:3" expanded="yes">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>3</lit>
+                </run>
+              </p>
+            </text>
+            <text>
+              <p>
+                <run>
+                  <lit>Design</lit>
+                </run>
+              </p>
+            </text>
+            <date>2014-12-04 08:00:00 -0500</date>
+            <date>2014-12-04 17:00:00 -0500</date>
+            <duration>8</duration>
+            <duration>8</duration>
+            <number>0</number>
+            <null/>
+            <null/>
+            <null/>
+            <null/>
+            <null/>
+            <null/>
+            <null/>
+            <number>0</number>
+            <null/>
+            <null/>
+            <text>
+              <p>
+                <run>
+                  <lit>0</lit>
+                </run>
+              </p>
+            </text>
+            <text>
+              <p>
+                <run>
+                  <lit>0</lit>
+                </run>
+              </p>
+            </text>
+          </values>
+          <children>
+            <item id="task:21" expanded="yes">
+              <values>
+                <text>
+                  <p>
+                    <run>
+                      <lit>21</lit>
+                    </run>
+                  </p>
+                </text>
+                <text>
+                  <p>
+                    <run>
+                      <lit>Start book outline</lit>
+                    </run>
+                  </p>
+                </text>
+                <date>2014-12-04 08:00:00 -0500</date>
+                <date>2014-12-04 17:00:00 -0500</date>
+                <duration>8</duration>
+                <duration>8</duration>
+                <number>0</number>
+                <null/>
+                <null/>
+                <null/>
+                <null/>
+                <null/>
+                <null/>
+                <null/>
+                <number>0</number>
+                <null/>
+                <null/>
+                <text>
+                  <p>
+                    <run>
+                      <lit>0</lit>
+                    </run>
+                  </p>
+                </text>
+                <text>
+                  <p>
+                    <run>
+                      <lit>0</lit>
+                    </run>
+                  </p>
+                </text>
+              </values>
+              <children>
+                <item id="task:22">
+                  <values>
+                    <text>
+                      <p>
+                        <run>
+                          <lit>22</lit>
+                        </run>
+                      </p>
+                    </text>
+                    <text>
+                      <p>
+                        <run>
+                          <lit>Styles</lit>
+                        </run>
+                      </p>
+                    </text>
+                    <date>2014-12-04 08:00:00 -0500</date>
+                    <date>2014-12-04 17:00:00 -0500</date>
+                    <duration>8</duration>
+                    <duration>8</duration>
+                    <number>0</number>
+                    <null/>
+                    <null/>
+                    <null/>
+                    <null/>
+                    <null/>
+                    <null/>
+                    <null/>
+                    <number>0</number>
+                    <null/>
+                    <number>0</number>
+                    <text>
+                      <p>
+                        <run>
+                          <lit>0</lit>
+                        </run>
+                      </p>
+                    </text>
+                    <text>
+                      <p>
+                        <run>
+                          <lit>0</lit>
+                        </run>
+                      </p>
+                    </text>
+                  </values>
+                </item>
+              </children>
+            </item>
+          </children>
+        </item>
+        <item id="task:17" expanded="yes">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>17</lit>
+                </run>
+              </p>
+            </text>
+            <text>
+              <p>
+                <run>
+                  <lit>Feature and functionality map</lit>
+                </run>
+              </p>
+            </text>
+            <date>2014-12-04 08:00:00 -0500</date>
+            <date>2014-12-04 17:00:00 -0500</date>
+            <duration>8</duration>
+            <duration>24</duration>
+            <number>0</number>
+            <null/>
+            <null/>
+            <null/>
+            <null/>
+            <null/>
+            <null/>
+            <null/>
+            <number>0</number>
+            <null/>
+            <null/>
+            <text>
+              <p>
+                <run>
+                  <lit>0</lit>
+                </run>
+              </p>
+            </text>
+            <text>
+              <p>
+                <run>
+                  <lit>0</lit>
+                </run>
+              </p>
+            </text>
+          </values>
+          <children>
+            <item id="task:18">
+              <values>
+                <text>
+                  <p>
+                    <run>
+                      <lit>18</lit>
+                    </run>
+                  </p>
+                </text>
+                <text>
+                  <p>
+                    <run>
+                      <lit>persona</lit>
+                    </run>
+                  </p>
+                </text>
+                <date>2014-12-04 08:00:00 -0500</date>
+                <date>2014-12-04 17:00:00 -0500</date>
+                <duration>8</duration>
+                <duration>8</duration>
+                <number>0</number>
+                <null/>
+                <null/>
+                <null/>
+                <null/>
+                <null/>
+                <null/>
+                <null/>
+                <number>0</number>
+                <null/>
+                <number>0</number>
+                <text>
+                  <p>
+                    <run>
+                      <lit>0</lit>
+                    </run>
+                  </p>
+                </text>
+                <text>
+                  <p>
+                    <run>
+                      <lit>0</lit>
+                    </run>
+                  </p>
+                </text>
+              </values>
+            </item>
+            <item id="task:19">
+              <values>
+                <text>
+                  <p>
+                    <run>
+                      <lit>19</lit>
+                    </run>
+                  </p>
+                </text>
+                <text>
+                  <p>
+                    <run>
+                      <lit>existing site</lit>
+                    </run>
+                  </p>
+                </text>
+                <date>2014-12-04 08:00:00 -0500</date>
+                <date>2014-12-04 17:00:00 -0500</date>
+                <duration>8</duration>
+                <duration>8</duration>
+                <number>0</number>
+                <null/>
+                <null/>
+                <null/>
+                <null/>
+                <null/>
+                <null/>
+                <null/>
+                <number>0</number>
+                <null/>
+                <number>0</number>
+                <text>
+                  <p>
+                    <run>
+                      <lit>0</lit>
+                    </run>
+                  </p>
+                </text>
+                <text>
+                  <p>
+                    <run>
+                      <lit>0</lit>
+                    </run>
+                  </p>
+                </text>
+              </values>
+            </item>
+            <item id="task:20">
+              <values>
+                <text>
+                  <p>
+                    <run>
+                      <lit>20</lit>
+                    </run>
+                  </p>
+                </text>
+                <text>
+                  <p>
+                    <run>
+                      <lit>Task 1</lit>
+                    </run>
+                  </p>
+                </text>
+                <date>2014-12-04 08:00:00 -0500</date>
+                <date>2014-12-04 17:00:00 -0500</date>
+                <duration>8</duration>
+                <duration>8</duration>
+                <number>0</number>
+                <null/>
+                <null/>
+                <null/>
+                <null/>
+                <null/>
+                <null/>
+                <null/>
+                <number>0</number>
+                <null/>
+                <number>0</number>
+                <text>
+                  <p>
+                    <run>
+                      <lit>0</lit>
+                    </run>
+                  </p>
+                </text>
+                <text>
+                  <p>
+                    <run>
+                      <lit>0</lit>
+                    </run>
+                  </p>
+                </text>
+              </values>
+            </item>
+          </children>
+        </item>
+        <item id="task:4" expanded="yes">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>4</lit>
+                </run>
+              </p>
+            </text>
+            <text>
+              <p>
+                <run>
+                  <lit>Admin</lit>
+                </run>
+              </p>
+            </text>
+            <date>2014-12-04 08:00:00 -0500</date>
+            <date>2015-01-28 09:15:00 -0500</date>
+            <duration>313.25</duration>
+            <duration>16</duration>
+            <number>0</number>
+            <null/>
+            <null/>
+            <null/>
+            <null/>
+            <null/>
+            <null/>
+            <null/>
+            <number>0</number>
+            <null/>
+            <null/>
+            <text>
+              <p>
+                <run>
+                  <lit>0</lit>
+                </run>
+              </p>
+            </text>
+            <text>
+              <p>
+                <run>
+                  <lit>0</lit>
+                </run>
+              </p>
+            </text>
+          </values>
+          <children>
+            <item id="task:5">
+              <values>
+                <text>
+                  <p>
+                    <run>
+                      <lit>5</lit>
+                    </run>
+                  </p>
+                </text>
+                <text>
+                  <p>
+                    <run>
+                      <lit>Budget</lit>
+                    </run>
+                  </p>
+                </text>
+                <date>2014-12-04 08:00:00 -0500</date>
+                <date>2014-12-04 17:00:00 -0500</date>
+                <duration>8</duration>
+                <duration>8</duration>
+                <number>0</number>
+                <null/>
+                <null/>
+                <null/>
+                <null/>
+                <null/>
+                <null/>
+                <null/>
+                <number>0</number>
+                <null/>
+                <number>0</number>
+                <text>
+                  <p>
+                    <run>
+                      <lit>0</lit>
+                    </run>
+                  </p>
+                </text>
+                <text>
+                  <p>
+                    <run>
+                      <lit>0</lit>
+                    </run>
+                  </p>
+                </text>
+              </values>
+            </item>
+            <item id="task:6">
+              <values>
+                <text>
+                  <p>
+                    <run>
+                      <lit>6</lit>
+                    </run>
+                  </p>
+                </text>
+                <text>
+                  <p>
+                    <run>
+                      <lit>Presentation</lit>
+                    </run>
+                  </p>
+                </text>
+                <date>2015-01-28 09:15:00 -0500</date>
+                <date>2015-01-28 09:15:00 -0500</date>
+                <null/>
+                <null/>
+                <number>0</number>
+                <null/>
+                <null/>
+                <null/>
+                <null/>
+                <null/>
+                <null/>
+                <null/>
+                <number>0</number>
+                <null/>
+                <null/>
+                <text>
+                  <p>
+                    <run>
+                      <lit>0</lit>
+                    </run>
+                  </p>
+                </text>
+                <text>
+                  <p>
+                    <run>
+                      <lit>0</lit>
+                    </run>
+                  </p>
+                </text>
+              </values>
+            </item>
+            <item id="task:8">
+              <values>
+                <text>
+                  <p>
+                    <run>
+                      <lit>8</lit>
+                    </run>
+                  </p>
+                </text>
+                <text>
+                  <p>
+                    <run>
+                      <lit>Task 2</lit>
+                    </run>
+                  </p>
+                </text>
+                <date>2014-12-04 08:00:00 -0500</date>
+                <date>2014-12-04 17:00:00 -0500</date>
+                <duration>8</duration>
+                <duration>8</duration>
+                <number>0</number>
+                <null/>
+                <null/>
+                <null/>
+                <null/>
+                <null/>
+                <null/>
+                <null/>
+                <number>0</number>
+                <null/>
+                <number>0</number>
+                <text>
+                  <p>
+                    <run>
+                      <lit>0</lit>
+                    </run>
+                  </p>
+                </text>
+                <text>
+                  <p>
+                    <run>
+                      <lit>0</lit>
+                    </run>
+                  </p>
+                </text>
+              </values>
+            </item>
+          </children>
+        </item>
+      </children>
+    </item>
+    <item id="task:9" expanded="yes">
+      <values>
+        <text>
+          <p>
+            <run>
+              <lit>9</lit>
+            </run>
+          </p>
+        </text>
+        <text>
+          <p>
+            <run>
+              <lit>Creative Technologies</lit>
+            </run>
+          </p>
+        </text>
+        <date>2014-12-04 08:00:00 -0500</date>
+        <date>2014-12-04 17:00:00 -0500</date>
+        <duration>8</duration>
+        <duration>32</duration>
+        <number>0</number>
+        <null/>
+        <null/>
+        <null/>
+        <null/>
+        <null/>
+        <null/>
+        <null/>
+        <number>0</number>
+        <null/>
+        <null/>
+        <text>
+          <p>
+            <run>
+              <lit>0</lit>
+            </run>
+          </p>
+        </text>
+        <text>
+          <p>
+            <run>
+              <lit>0</lit>
+            </run>
+          </p>
+        </text>
+      </values>
+      <children>
+        <item id="task:10">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>10</lit>
+                </run>
+              </p>
+            </text>
+            <text>
+              <p>
+                <run>
+                  <lit>Feb 2</lit>
+                </run>
+              </p>
+            </text>
+            <date>2014-12-04 08:00:00 -0500</date>
+            <date>2014-12-04 17:00:00 -0500</date>
+            <duration>8</duration>
+            <duration>8</duration>
+            <number>0</number>
+            <null/>
+            <null/>
+            <null/>
+            <null/>
+            <null/>
+            <null/>
+            <null/>
+            <number>0</number>
+            <null/>
+            <number>0</number>
+            <text>
+              <p>
+                <run>
+                  <lit>0</lit>
+                </run>
+              </p>
+            </text>
+            <text>
+              <p>
+                <run>
+                  <lit>0</lit>
+                </run>
+              </p>
+            </text>
+          </values>
+        </item>
+        <item id="task:11">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>11</lit>
+                </run>
+              </p>
+            </text>
+            <text>
+              <p>
+                <run>
+                  <lit>Videos</lit>
+                </run>
+              </p>
+            </text>
+            <date>2014-12-04 08:00:00 -0500</date>
+            <date>2014-12-04 17:00:00 -0500</date>
+            <duration>8</duration>
+            <duration>8</duration>
+            <number>0</number>
+            <null/>
+            <null/>
+            <null/>
+            <null/>
+            <null/>
+            <null/>
+            <null/>
+            <number>0</number>
+            <null/>
+            <number>0</number>
+            <text>
+              <p>
+                <run>
+                  <lit>0</lit>
+                </run>
+              </p>
+            </text>
+            <text>
+              <p>
+                <run>
+                  <lit>0</lit>
+                </run>
+              </p>
+            </text>
+          </values>
+        </item>
+        <item id="task:12">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>12</lit>
+                </run>
+              </p>
+            </text>
+            <text>
+              <p>
+                <run>
+                  <lit>Website</lit>
+                </run>
+              </p>
+            </text>
+            <date>2014-12-04 08:00:00 -0500</date>
+            <date>2014-12-04 17:00:00 -0500</date>
+            <duration>8</duration>
+            <duration>8</duration>
+            <number>0</number>
+            <null/>
+            <null/>
+            <null/>
+            <null/>
+            <null/>
+            <null/>
+            <null/>
+            <number>0</number>
+            <null/>
+            <number>0</number>
+            <text>
+              <p>
+                <run>
+                  <lit>0</lit>
+                </run>
+              </p>
+            </text>
+            <text>
+              <p>
+                <run>
+                  <lit>0</lit>
+                </run>
+              </p>
+            </text>
+          </values>
+        </item>
+        <item id="task:13">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>13</lit>
+                </run>
+              </p>
+            </text>
+            <text>
+              <p>
+                <run>
+                  <lit>Blogging</lit>
+                </run>
+              </p>
+            </text>
+            <date>2014-12-04 08:00:00 -0500</date>
+            <date>2014-12-04 17:00:00 -0500</date>
+            <duration>8</duration>
+            <duration>8</duration>
+            <number>0</number>
+            <null/>
+            <null/>
+            <null/>
+            <null/>
+            <null/>
+            <null/>
+            <null/>
+            <number>0</number>
+            <null/>
+            <number>0</number>
+            <text>
+              <p>
+                <run>
+                  <lit>0</lit>
+                </run>
+              </p>
+            </text>
+            <text>
+              <p>
+                <run>
+                  <lit>0</lit>
+                </run>
+              </p>
+            </text>
+          </values>
+        </item>
+      </children>
+    </item>
+    <item id="task:14" expanded="yes">
+      <values>
+        <text>
+          <p>
+            <run>
+              <lit>14</lit>
+            </run>
+          </p>
+        </text>
+        <text>
+          <p>
+            <run>
+              <lit>CES</lit>
+            </run>
+          </p>
+        </text>
+        <date>2014-12-04 08:00:00 -0500</date>
+        <date>2014-12-04 17:00:00 -0500</date>
+        <duration>8</duration>
+        <duration>8</duration>
+        <number>0</number>
+        <null/>
+        <null/>
+        <null/>
+        <null/>
+        <null/>
+        <null/>
+        <null/>
+        <number>0</number>
+        <null/>
+        <null/>
+        <text>
+          <p>
+            <run>
+              <lit>0</lit>
+            </run>
+          </p>
+        </text>
+        <text>
+          <p>
+            <run>
+              <lit>0</lit>
+            </run>
+          </p>
+        </text>
+      </values>
+      <children>
+        <item id="task:15">
+          <values>
+            <text>
+              <p>
+                <run>
+                  <lit>15</lit>
+                </run>
+              </p>
+            </text>
+            <text>
+              <p>
+                <run>
+                  <lit>Appnation Panel</lit>
+                </run>
+              </p>
+            </text>
+            <date>2014-12-04 08:00:00 -0500</date>
+            <date>2014-12-04 17:00:00 -0500</date>
+            <duration>8</duration>
+            <duration>8</duration>
+            <number>0</number>
+            <null/>
+            <null/>
+            <null/>
+            <null/>
+            <null/>
+            <null/>
+            <null/>
+            <number>0</number>
+            <null/>
+            <number>0</number>
+            <text>
+              <p>
+                <run>
+                  <lit>0</lit>
+                </run>
+              </p>
+            </text>
+            <text>
+              <p>
+                <run>
+                  <lit>0</lit>
+                </run>
+              </p>
+            </text>
+          </values>
+        </item>
+      </children>
+    </item>
+  </root>
+</outline>

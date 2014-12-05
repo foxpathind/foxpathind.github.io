@@ -1,5 +1,91 @@
 # Taxonomy Project
 
+## December 5, 2014 - 10:03 AM
+
+John and Guy, Premier Technology
+cmoschovitis@tmg-emedia.com,
+gsimoneau@premiertechnology.com,
+jherron@premiertechnology.com,
+marciweisler@gmail.com, jmarranca@aaaa.org
+
+http://www.premiertechnology.com/index.php
+
+1. Determine duplicate
+2. Document evaluation
+3. Catalgung could be run multiple times, could run it against other drive
+4. Moving the stuff into of 
+5. Catalog the first
+6. importing the document would be get the text
+7. Use Powershell to import documents into Sharepoint, wouldn't throw away the script
+8. Could use this script to ingest 
+9. Terms is in the indexing information
+10. Show examples of document management system
+	- metadata
+	- user interfaces
+	- add to the costs
+	- Sharepoint development
+11. On premises is 2007, should upgrade to 2013, off premises?
+12. In parallel investigate the using Sharepoint going forward
+13. Premiere: Demo a sharepoint what sharepoint can do
+14. 
+
+
+## December 2, 2014 - 6:01 PM
+
+Email to Anna,
+
+But I was thinking we may be able to use Sharepoint and it could be more helpful, if practical.
+
+1. calatog all files
+2. preserve and extract path and directory names as informal categorization schema for the consideration in the taxonomy/taxonomies
+3. allow filtering to focus in on one of more set of files based on location, date or some other system properyt
+4. allow one click access to open any file in the catalog/on the file server
+5. even perhaps have Sharepoint index the the text in Word, Excel possibly even PDFs for deeper analysis like term occurrence frequency etc.
+
+For arguments sake let’s say 2 weeks at no more than $15,000.
+
+
+
+## December 2, 2014 - 11:02 AM
+
+
+## Today's Meeting
+- Topic - where did this come from 
+- Powershell script to mark documents after 2012 and owner if possible
+- Top of mind documents
+- Research - filing systems, member facing content, papers, insights
+
+### Goals of the Project
+
+
+
+Carol, Joe and I reviewed this sheet it was great to be able to get a snapshot of what is on the drive and raises many questions about this project.
+
+- There are >18,000 entries
+- There are instances where "LastWritten" predates "Creation time" so using "LastWritten" as a benchmark for dates 
+- Creation has > 10 entries prior to 11/28/05
+- LastWritten dates back to 1992 and has dates moving forward from there
+- Of LastWritten, roughly 26%,  or 4,800 were "Last Written" 2012-present. meaning 14,000 predate 2012
+- In terms of files
+- >2500 xls
+- 800 ppt
+- 3600 pdf
+- ~9000 doc
+- plus other random images, scripts
+- There are often multiple versions of files
+- There are a number of attendee lists, reviews, etc.
+
+- Clearly this is overwhelming and there's a lot of dated files that are likely of no use at this point.
+
+- Some considerations that we can discuss tomorrow:
+- Focus on a date as a start--1/1/2012?   
+- Only review that and current?
+- Give departments a period of time to review anything prior to the date that they may want--otherwise it gets archived or discarded
+- Stick to 4A's written material for our review, vs. 3rd party
+- Discard all folders still named with former 4A's employees (unfortunately, this may be manual unless there's a field to add on author, but don't believe that exists)
+- Discard all folders "Outdated" or "For Review"
+
+
 ## November 22, 2014 - 4:01 PM
 
 _email notes_

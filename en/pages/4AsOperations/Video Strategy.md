@@ -1,5 +1,14 @@
 # 4A's Video Strategy
 
+December 2, 2014 - 2:14 PM
+
+- Video webinars
+-  4 to 6 20 minutes, packaged 
+- On DEmnad ann/or webcast
+
+
+
+-----
 
 - Siberian Films
 	- Creative Services Video opticals

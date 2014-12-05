@@ -1,6 +1,11 @@
 - Nav is hierarchical. Terms form a network. Wiki words 
 #TODO - END 2014
 
+#Cross reference
+|Name	| Session Title	| Date range	|???	|  
+| ------	| ------	| ------	| ------	|  
+|David Shrier	|Keynote	|Thursday	|entry	| 
+|Dean	|Bio hacking Panel	|Thursday	|entry	|   
 
 # Meetings/Calls:
 	- Ray Velez @done
@@ -14,15 +19,31 @@
 		- Dec. 9 change??
 
 
+
+#Taxonomy:
+	- Powershell
+	- Sharepoin project 
+
+
+#YIR:
+	- Video assets??
+
+#CES 2015:
+	- [AppNation](http://appnationconference.com/an6/)
+	 
+		
+		
 #LifeBox personal infrastructure:
 	- Zapier and Email to slack
 	- model up!
+	- 
 
 
 #Monday Dec. 1:
+	-  creative technologies deck to Mollie
 	- CES panel
 		- 
-	- CraeteTech meeting NYC Feb
+	- CreateTech meeting NYC Feb - Will be Feb 2
 	- May in Berlin/Paris
 	- Website update
 		- Last board meeting

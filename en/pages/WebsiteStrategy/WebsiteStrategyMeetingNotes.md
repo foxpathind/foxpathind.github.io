@@ -1,4 +1,46 @@
 
+#Website Strategy - 2014 - 2015
+
+
+### December 4, 2014 - 11:05 AM
+
+- Carolyn
+- Slobodan - tech director, works with Charles
+
+#### Update
+
+- Exec summary early next week - Tuesday
+- personas
+	- revising the format
+	- simpler user flow
+	- 7 personas
+		- search consulting side - 8th charaacter
+		- Mollie has seen and should provide feedback for the end of the week
+- Meet next week on the 11th
+	- Alison, Jules, Mollie
+- FFM
+	- Dec 15th
+	- Workshop
+	- Audit 
+	- Send us head of time
+	- Joe Baca
+	- What is the ideal state?
+	- Minimal viable product?
+	- Excel 
+- Next phase Q1 - proposal next week
+
+
+
+
+### December 2, 2014 - 12:07 PM
+
+- Features and functions
+	- review
+- Personas - when are we seeing
+
+
+
+
 ### November 25, 2014 - 11:10 AM
 
 - Alison, Joe, Marci
@@ -13,7 +55,9 @@
 		- more conversation about
 		- i'm mapping things out
 		- editorial policy
-	- member profiles - user gen
+	- member profiles 
+	- user gen content
+		- comments
 	- live streaming
 	- events
 		- micro sites
@@ -33,7 +77,7 @@
 		- loyalty
 		- evangelism/ socializing/ advocates
 
-	- th4e industry - professionals outside
+	- the industry - professionals outside
 		- clients
 		- procurement 
 		- search consultants
@@ -41,6 +85,7 @@
 		- press/media
 	
 #### Content thoughts
+
 	- members only content
 	- what is findable - abstracts
 		- gate 	
@@ -68,16 +113,16 @@
 	- agency service the 
 
 #### Search consultants	
-	- accounts in review
-	- agencies profiles
-		- news of agencies, 
-		- the state of the agency
-		- rss feeds
-		- AdAge Lookbook
-	- help agencies get in front of search consultants
-	- help agencies get noticed
-	- smaller agencies also looking here
-		- can't afford a search consultant
+- accounts in review
+- agencies profiles
+	- news of agencies, 
+	- the state of the agency
+	- rss feeds
+	- AdAge Lookbook
+- help agencies get in front of search consultants
+- help agencies get noticed
+- smaller agencies also looking here
+	- can't afford a search consultant
 - Job seekers
 
 #### Audiennce goals
